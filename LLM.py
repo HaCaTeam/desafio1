@@ -69,7 +69,7 @@ class LLM:
         return query
     
 
-    def process_transcripts(self, transcripts: list) -> str:
+    def process_transcripts(self, transcripts: list) -> tuple[str, str, list[str]]:
         """
         Process a list of transcripts
 
