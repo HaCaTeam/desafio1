@@ -1,0 +1,62 @@
+[
+    {
+        "name": "Alicia",
+        "description": "Eco-Conscious Advocate",
+        "interests": {
+            "Environment": 27,
+            "Food & Drink": 35,
+            "Personal Celebrations & Life Events": 38
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Marcus",
+        "description": "Social Justice Lawyer",
+        "interests": {
+            "Politics": 46,
+            "Crime, Law & Justice": 23,
+            "War and Conflicts": 31
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Priya",
+        "description": "Wellness Enthusiast",
+        "interests": {
+            "Religion & Spirituality": 44,
+            "Medical Health": 32,
+            "Education": 24
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Liam",
+        "description": "Adventure-Seeking Traveler",
+        "interests": {
+            "Travel": 43,
+            "Entertainment": 23,
+            "Hobbies & Interests": 34
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Sofia",
+        "description": "Tech-Savvy Entrepreneur",
+        "interests": {
+            "Business and Finance": 45,
+            "Real Estate": 27,
+            "Shopping": 28
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "David",
+        "description": "Political Analyst",
+        "interests": {
+            "Politics": 76,
+            "Communication": 14,
+            "Education": 10
+        },
+        "watching_time": 100
+    }
+]

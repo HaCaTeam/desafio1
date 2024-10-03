@@ -1,0 +1,116 @@
+[
+    {
+        "name": "Alicia",
+        "description": "Eco-Conscious Advocate",
+        "interests": {
+            "Environment": {
+                "time": 50,
+                "skips": 2
+            },
+            "Food & Drink": {
+                "time": 32,
+                "skips": 6
+            },
+            "Personal Celebrations & Life Events": {
+                "time": 18,
+                "skips": 1
+            }
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Marcus",
+        "description": "Social Justice Lawyer",
+        "interests": {
+            "Politics": {
+                "time": 40,
+                "skips": 3
+            },
+            "Crime, Law & Justice": {
+                "time": 35,
+                "skips": 1
+            },
+            "War and Conflicts": {
+                "time": 25,
+                "skips": 3
+            }
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Priya",
+        "description": "Wellness Enthusiast",
+        "interests": {
+            "Religion & Spirituality": {
+                "time": 48,
+                "skips": 4
+            },
+            "Medical Health": {
+                "time": 30,
+                "skips": 10
+            },
+            "Education": {
+                "time": 22,
+                "skips": 10
+            }
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Liam",
+        "description": "Adventure-Seeking Traveler",
+        "interests": {
+            "Travel": {
+                "time": 63,
+                "skips": 8
+            },
+            "Entertainment": {
+                "time": 23,
+                "skips": 0
+            },
+            "Hobbies & Interests": {
+                "time": 14,
+                "skips": 1
+            }
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "Sofia",
+        "description": "Tech-Savvy Entrepreneur",
+        "interests": {
+            "Business and Finance": {
+                "time": 40,
+                "skips": 4
+            },
+            "Real Estate": {
+                "time": 32,
+                "skips": 1
+            },
+            "Shopping": {
+                "time": 28,
+                "skips": 0
+            }
+        },
+        "watching_time": 100
+    },
+    {
+        "name": "David",
+        "description": "Political Analyst",
+        "interests": {
+            "Politics": {
+                "time": 82,
+                "skips": 3
+            },
+            "Communication": {
+                "time": 10,
+                "skips": 5
+            },
+            "Education": {
+                "time": 8,
+                "skips": 9
+            }
+        },
+        "watching_time": 100
+    }
+]

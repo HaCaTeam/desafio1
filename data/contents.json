@@ -3,165 +3,6 @@
     "odata.count": "15",
     "value": [
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "61",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "61",
-                    "LiveChannelProgramId": "36137318",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "62",
-                        "ParentId": "61",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_Special_All",
-                        "Path": "/Entretenimento/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "62",
-                    "LiveChannelProgramId": "36137318",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "68",
-                        "ParentId": "61",
-                        "Name": "Música",
-                        "Code": "MSEPGC_Special_Music",
-                        "Path": "/Entretenimento/Música",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "68",
-                    "LiveChannelProgramId": "36137318",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "109",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "109",
-                    "LiveChannelProgramId": "36137318",
-                    "OrderNumber": null
-                }
-            ],
-            "Id": "36137318",
-            "CallLetter": "RTP1",
-            "StartDate": "2024-10-02T23:02:00",
-            "StartTime": "23:02",
-            "ProgramId": 20587000,
-            "EndDate": "2024-10-03T00:21:00",
-            "Title": "Dillaz: Festival F 2024",
-            "Synopsis": "Concerto de Dillaz gravado no Festival F, em Faro. Dillaz conta no seu currículo com duas mixtapes ('Sagrada Família' & 'Sagrada Família Vol.2') o EP Dillaz & Spliff ('Cria Actividade') e mais recentemente 'Reflexo' álbum escrito e produzido pelo próprio . Devido ao seu trabalho, andou de norte a sul de Portugal contando com atuações nos principais festivais académicos e de verão.",
-            "SeriesId": null,
-            "SeriesEpisodeNumber": null,
-            "Participants": null,
-            "ImageUri": null,
-            "IsAdultContent": false,
-            "IsEnabled": true,
-            "SearchRank": 0,
-            "NumberOfEpisodes": null,
-            "IsLiveAnytimeChannel": true,
-            "TitleId": "Dillaz: Festival F 2024",
-            "IsBlackout": false,
-            "Thematics": "Música",
-            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
-            "TransmitType": null,
-            "EventYear": null,
-            "Interactive": null,
-            "SharpStart": 99,
-            "SharpEnd": 416,
-            "SharpUpdateTime": "2024-10-03T00:42:20.2"
-        },
-        {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "61",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "61",
-                    "LiveChannelProgramId": "36137317",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "62",
-                        "ParentId": "61",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_Special_All",
-                        "Path": "/Entretenimento/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "62",
-                    "LiveChannelProgramId": "36137317",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "66",
-                        "ParentId": "61",
-                        "Name": "Humor",
-                        "Code": "MSEPGC_Special_Humor",
-                        "Path": "/Entretenimento/Humor",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "66",
-                    "LiveChannelProgramId": "36137317",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "69",
-                        "ParentId": "61",
-                        "Name": "Talk Show",
-                        "Code": "MSEPGC_Special_Talk",
-                        "Path": "/Entretenimento/Talk Show",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "69",
-                    "LiveChannelProgramId": "36137317",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "109",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "109",
-                    "LiveChannelProgramId": "36137317",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36137317",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T21:38:00",
@@ -191,64 +32,6 @@
             "SharpUpdateTime": "2024-10-02T23:22:13.207"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "61",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "61",
-                    "LiveChannelProgramId": "36137316",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "62",
-                        "ParentId": "61",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_Special_All",
-                        "Path": "/Entretenimento/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "62",
-                    "LiveChannelProgramId": "36137316",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "63",
-                        "ParentId": "61",
-                        "Name": "Concurso",
-                        "Code": "MSEPGC_Special_Game",
-                        "Path": "/Entretenimento/Concurso",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "63",
-                    "LiveChannelProgramId": "36137316",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "109",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "109",
-                    "LiveChannelProgramId": "36137316",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36137316",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T20:37:00",
@@ -278,22 +61,6 @@
             "SharpUpdateTime": "2024-10-02T21:59:04.397"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "112",
-                        "ParentId": null,
-                        "Name": "Outros",
-                        "Code": "MSEPGC_Others",
-                        "Path": "/Outros",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "112",
-                    "LiveChannelProgramId": "36137315",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36137315",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T20:01:00",
@@ -323,50 +90,6 @@
             "SharpUpdateTime": "2024-10-02T21:00:11.187"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "102",
-                        "ParentId": null,
-                        "Name": "Informação",
-                        "Code": "MSEPGC_News",
-                        "Path": "/Informação",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "102",
-                    "LiveChannelProgramId": "36061615",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "103",
-                        "ParentId": "102",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_News_All",
-                        "Path": "/Informação/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "103",
-                    "LiveChannelProgramId": "36061615",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "114",
-                        "ParentId": null,
-                        "Name": "Informação",
-                        "Code": "MSEPGC_News",
-                        "Path": "/Informação",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "114",
-                    "LiveChannelProgramId": "36061615",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36061615",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T18:59:00",
@@ -396,64 +119,6 @@
             "SharpUpdateTime": "2024-10-02T20:22:25.33"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "61",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "61",
-                    "LiveChannelProgramId": "36061613",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "62",
-                        "ParentId": "61",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_Special_All",
-                        "Path": "/Entretenimento/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "62",
-                    "LiveChannelProgramId": "36061613",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "63",
-                        "ParentId": "61",
-                        "Name": "Concurso",
-                        "Code": "MSEPGC_Special_Game",
-                        "Path": "/Entretenimento/Concurso",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "63",
-                    "LiveChannelProgramId": "36061613",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "109",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "109",
-                    "LiveChannelProgramId": "36061613",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36061613",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T18:06:00",
@@ -483,22 +148,6 @@
             "SharpUpdateTime": "2024-10-02T19:20:51.5"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "112",
-                        "ParentId": null,
-                        "Name": "Outros",
-                        "Code": "MSEPGC_Others",
-                        "Path": "/Outros",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "112",
-                    "LiveChannelProgramId": "36061612",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36061612",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T16:30:00",
@@ -528,64 +177,6 @@
             "SharpUpdateTime": "2024-10-02T18:26:23.313"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "61",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "61",
-                    "LiveChannelProgramId": "36137314",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "62",
-                        "ParentId": "61",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_Special_All",
-                        "Path": "/Entretenimento/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "62",
-                    "LiveChannelProgramId": "36137314",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "70",
-                        "ParentId": "61",
-                        "Name": "Variedades",
-                        "Code": "MSEPGC_Special_Varieties",
-                        "Path": "/Entretenimento/Variedades",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "70",
-                    "LiveChannelProgramId": "36137314",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "109",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "109",
-                    "LiveChannelProgramId": "36137314",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36137314",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T14:26:00",
@@ -601,7 +192,7 @@
             "IsAdultContent": false,
             "IsEnabled": true,
             "SearchRank": 0,
-            "NumberOfEpisodes": 5,
+            "NumberOfEpisodes": 6,
             "IsLiveAnytimeChannel": true,
             "TitleId": "A Nossa Tarde",
             "IsBlackout": false,
@@ -615,78 +206,6 @@
             "SharpUpdateTime": "2024-10-02T16:50:29.113"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "61",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "61",
-                    "LiveChannelProgramId": "36137313",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "62",
-                        "ParentId": "61",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_Special_All",
-                        "Path": "/Entretenimento/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "62",
-                    "LiveChannelProgramId": "36137313",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "64",
-                        "ParentId": "61",
-                        "Name": "Telenovela",
-                        "Code": "MSEPGC_Special_Soap",
-                        "Path": "/Entretenimento/Telenovela",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "64",
-                    "LiveChannelProgramId": "36137313",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "109",
-                        "ParentId": null,
-                        "Name": "Entretenimento",
-                        "Code": "MSEPGC_Special",
-                        "Path": "/Entretenimento",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "109",
-                    "LiveChannelProgramId": "36137313",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "112",
-                        "ParentId": null,
-                        "Name": "Outros",
-                        "Code": "MSEPGC_Others",
-                        "Path": "/Outros",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "112",
-                    "LiveChannelProgramId": "36137313",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36137313",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T13:23:00",
@@ -716,50 +235,6 @@
             "SharpUpdateTime": "2024-10-03T01:52:10.6"
         },
         {
-            "RelatedThematic": [
-                {
-                    "Thematic": {
-                        "Id": "102",
-                        "ParentId": null,
-                        "Name": "Informação",
-                        "Code": "MSEPGC_News",
-                        "Path": "/Informação",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "102",
-                    "LiveChannelProgramId": "36054553",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "103",
-                        "ParentId": "102",
-                        "Name": "Todos os Programas",
-                        "Code": "MSEPGC_News_All",
-                        "Path": "/Informação/Todos os Programas",
-                        "Enabled": true,
-                        "Type": "GA"
-                    },
-                    "ThematicId": "103",
-                    "LiveChannelProgramId": "36054553",
-                    "OrderNumber": null
-                },
-                {
-                    "Thematic": {
-                        "Id": "114",
-                        "ParentId": null,
-                        "Name": "Informação",
-                        "Code": "MSEPGC_News",
-                        "Path": "/Informação",
-                        "Enabled": true,
-                        "Type": "LIVE"
-                    },
-                    "ThematicId": "114",
-                    "LiveChannelProgramId": "36054553",
-                    "OrderNumber": null
-                }
-            ],
             "Id": "36054553",
             "CallLetter": "RTP1",
             "StartDate": "2024-10-02T11:59:00",
@@ -787,7 +262,151 @@
             "SharpStart": 115,
             "SharpEnd": 455,
             "SharpUpdateTime": "2024-10-02T13:44:20.29"
+        },
+        {
+            "Id": "36054552",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T09:00:00",
+            "StartTime": "09:00",
+            "ProgramId": 20586964,
+            "EndDate": "2024-10-02T11:59:00",
+            "Title": "Praça da Alegria",
+            "Synopsis": "Jorge Gabriel e Sónia Araújo dão-lhe as boas vindas à Praça da Alegria! Porque sabemos que gosta da nossa companhia, oferecemos boa disposição até à hora de almoço! De segunda a sexta-feira, a Praça da Alegria leva até si a melhor música, as últimas tendências da moda, conselhos úteis e muitas dicas que facilitam o seu dia-a-dia.",
+            "SeriesId": 1649037771,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 6,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Praça da Alegria",
+            "IsBlackout": false,
+            "Thematics": "Variedades",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 63,
+            "SharpEnd": 194,
+            "SharpUpdateTime": "2024-10-02T12:20:18.597"
+        },
+        {
+            "Id": "36049094",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T05:00:00",
+            "StartTime": "05:00",
+            "ProgramId": 20586961,
+            "EndDate": "2024-10-02T09:00:00",
+            "Title": "Bom Dia Portugal",
+            "Synopsis": "O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria, de 2a a 6a feira entre as 06:30h e as 10:00h. Todos os dias, o Bom Dia Portugal dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.",
+            "SeriesId": 1607881093,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 6,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Bom Dia Portugal",
+            "IsBlackout": false,
+            "Thematics": null,
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 100,
+            "SharpEnd": 178,
+            "SharpUpdateTime": "2024-10-02T09:20:25.163"
+        },
+        {
+            "Id": "36124288",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T02:28:00",
+            "StartTime": "02:28",
+            "ProgramId": 20586988,
+            "EndDate": "2024-10-02T05:00:00",
+            "Title": "Televendas",
+            "Synopsis": "Todos os dias, um espaço dedicado a vendas por televisão, em que são feitas demonstrações dos produtos.",
+            "SeriesId": 410072200,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 8,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Televendas",
+            "IsBlackout": false,
+            "Thematics": null,
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 158,
+            "SharpEnd": 169,
+            "SharpUpdateTime": "2024-10-02T05:20:18.747"
+        },
+        {
+            "Id": "36124287",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T01:30:00",
+            "StartTime": "01:30",
+            "ProgramId": 20586889,
+            "EndDate": "2024-10-02T02:28:00",
+            "Title": "Amor Sem Igual - Ep. 33",
+            "Synopsis": "Angélica é uma prostituta vistosa, conhecida por 'Poderosa', que frequenta regularmente um posto de gasolina de beira da estrada. É lá que conhece o agrónomo Miguel, um paulista nobre com bom carácter, que vende os legumes que cultiva na sua propriedade. Mal se cruzam, a atração é evidente, embora não adivinhem o que o futuro lhes reserva.",
+            "SeriesId": 139031,
+            "SeriesEpisodeNumber": 33,
+            "Participants": "Day Mesquita,Rafael Sardão,Thiago Rodrigues,Rudi Lagemann",
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 7,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Amor Sem Igual",
+            "IsBlackout": false,
+            "Thematics": "Telenovela",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 159,
+            "SharpEnd": 0,
+            "SharpUpdateTime": "2024-10-02T01:50:17.097"
+        },
+        {
+            "Id": "36124286",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T01:09:00",
+            "StartTime": "01:09",
+            "ProgramId": 20586958,
+            "EndDate": "2024-10-02T01:30:00",
+            "Title": "Terra Europa T1 - Ep. 48",
+            "Synopsis": "A série acompanha o trabalho dos eurodeputados e das instituições europeias como nunca antes visto, através de quatro novas rúbricas. Descomplicar a Europa com o 'Dicionário Europeu'. Construir a Europa, com a participação de jovens portugueses eleitores. Dar espaço à cultura através do 'Cinema Europa', com a divulgação dos festivais e prêmios europeus. E conhecer os 27 Estados membros, com um segmento de estatísticas europeias.",
+            "SeriesId": 131028,
+            "SeriesEpisodeNumber": 48,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 1,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Terra Europa T1",
+            "IsBlackout": false,
+            "Thematics": "Cultura e Sociedade",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 154,
+            "SharpEnd": 204,
+            "SharpUpdateTime": "2024-10-02T01:50:17.097"
         }
-    ],
-    "odata.nextLink": "http://ott.online.meo.pt/program/v9/Programs/DvrLiveChannelPrograms?$format=json&UserAgent=AND_NG&$filter=StartDate%20ge%20datetime%272024-10-02T00%3A00%3A00%27%20and%20StartDate%20lt%20datetime%272024-10-02T23%3A59%3A00%27%20and%20CallLetter%20eq%20%27RTP1%27%20and%20IsEnabled%20eq%20true%20and%20IsLiveAnytimeChannel%20eq%20true%20and%20IsAdultContent%20eq%20false%20and%20IsBlackout%20eq%20false%20and%20substringof%28%27Mobile%27%2CAvailableOnChannels%29&$orderby=StartDate%20desc&$expand=RelatedThematic%2FThematic&$inlinecount=allpages&$skip=10"
+    ]
 }
