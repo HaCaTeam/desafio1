@@ -1,0 +1,51 @@
+{
+    // user preferences (threshold: 30%)
+    // note: if there are no relevant programs, the app still has to display a program
+    "preferences": [
+        {
+            "description": "Entertainment",
+            "percentage": 50
+        },
+        {
+            "description": "Events & Attractions",
+            "percentage": 20
+        },
+        {
+            "description": "Sensitive Topics",
+            "percentage": 20
+        },
+        {
+            "description": "Sports",
+            "percentage": 10
+        }
+    ],
+    // programs sorted by relevance
+    "programs": [
+        {
+            "Title": "Dillaz: Festival F 2024",
+            "Synopsis": "Concerto de Dillaz gravado no Festival F, em Faro. Dillaz conta no seu curr\u00edculo com duas mixtapes ('Sagrada Fam\u00edlia' & 'Sagrada Fam\u00edlia Vol.2') o EP Dillaz & Spliff ('Cria Actividade') e mais recentemente 'Reflexo' \u00e1lbum escrito e produzido pelo pr\u00f3prio . Devido ao seu trabalho, andou de norte a sul de Portugal contando com atua\u00e7\u00f5es nos principais festivais acad\u00e9micos e de ver\u00e3o.",
+            "StartDate": "2024-10-02T23:02:00",
+            "EndDate": "2024-10-03T00:21:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 72.72727272727273
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 3.0303030303030303
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 18.181818181818183
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 6.0606060606060606
+                }
+            ]
+        },
+        ...
+        // more programs
+    ]
+}
