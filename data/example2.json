@@ -1,0 +1,38 @@
+{
+    "preferences": {
+        "Politics": 50,
+        "War and Conflicts": 20,
+        "Business and Finance": 20,
+        "Medical Health": 10
+    },
+    "programs": [
+        {
+            "Title": "Telejornal",
+            "Synopsis": "A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.",
+            "StartDate": "2024-10-02T18:59:00",
+            "EndDate": "2024-10-02T20:01:00",
+            "Topics": []
+        },
+        {
+            "Title": "Portugal em Direto",
+            "Synopsis": "A atualidade diária do nosso país.",
+            "StartDate": "2024-10-02T16:30:00",
+            "EndDate": "2024-10-02T18:06:00",
+            "Topics": []
+        },
+        {
+            "Title": "Jornal da Tarde",
+            "Synopsis": "Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade que marcam a informação na RTP.",
+            "StartDate": "2024-10-02T11:59:00",
+            "EndDate": "2024-10-02T13:23:00",
+            "Topics": []
+        },
+        {
+            "Title": "Bom Dia Portugal",
+            "Synopsis": "O Bom Dia Portugal é um programa de informação apresentado por João Tomé de Carvalho e Carla Trafaria, de 2a a 6a feira entre as 06:30h e as 10:00h. Todos os dias, o Bom Dia Portugal dedica espaços específicos às notícias da atualidade nacional e internacional, desporto, meteorologia, trânsito e economia.",
+            "StartDate": "2024-10-02T05:00:00",
+            "EndDate": "2024-10-02T09:00:00",
+            "Topics": []
+        }
+    ]
+}
