@@ -1,4 +1,3 @@
-import pickle as pkl
 import requests
 import json
 
@@ -48,12 +47,3 @@ for program in programs:
 print(set_topics)
 
 json.dump(topics, open('data/programs/programs_info.json', 'w'), indent=4)
-
-# transform programs to a list of tuples (program_name, topic1, rate), (program_name, topic2, rate), ...
-program_interest_tuples = []
-
-for p in topics:
-    for topic in p["Topics"]:
-        program_interest_tuples.append((p["Title"], topic["description"], topic["percentage"]))
-
-pkl.dump(program_interest_tuples, open('data/programs/program_topics.pkl', 'wb'))

@@ -1,8 +1,7 @@
-import pickle as pkl
 import json
 from random import randint
 
-TOPICS = {'Environment', 'Personal Celebrations & Life Events', 'Politics', 'Religion & Spirituality', 'War and Conflicts', 'Real Estate', 'Shopping', 'Careers', 'Books and Literature', 'Crime, Law & Justice', 'Events & Attractions', 'Communication', 'Sports', 'Video Gaming', 'Disasters', 'Sensitive Topics', 'Food & Drink', 'Education', 'Medical Health', 'Pets', 'Entertainment', 'Travel', 'Automotive', 'Business and Finance', 'Hobbies & Interests', 'Family and Relationships'}
+TOPICS = {'Books and Literature', 'Environment', 'Careers', 'Healthy Living', 'Shopping', 'Automotive', 'Sensitive Topics', 'Politics', 'Events & Attractions', 'Maps & Navigation', 'Personal Celebrations & Life Events', 'Style & Fashion', 'Sports', 'Business and Finance', 'War and Conflicts', 'Hobbies & Interests', 'Education', 'Food & Drink', 'Real Estate', 'Crime, Law & Justice', 'Communication', 'Family and Relationships', 'Disasters', 'Home & Garden', 'Video Gaming', 'Pets', 'Medical Health', 'Entertainment', 'Fine Art', 'Religion & Spirituality', 'Travel'}
 
 with open('data/programs/programs_info.json', 'r') as f:
     programs = json.load(f)
@@ -33,13 +32,3 @@ for p in raw_personas:
     personas.append(new_p)
 
 json.dump(personas, open('data/personas.json', 'w'), indent=4)
-
-# transform personas to a list of tuples (persona_name, topic1, rate), (persona_name, topic2, rate), ...
-persona_interest_tuples = []
-
-for p in personas:
-    for topic in p["interests"].keys():
-        persona_interest_tuples.append((p["name"], topic, p["interests"][topic]))
-
-print(persona_interest_tuples)
-pkl.dump(persona_interest_tuples, open('data/personas/personas_topics.pkl', 'wb'))
