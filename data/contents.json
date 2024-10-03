@@ -1,0 +1,793 @@
+{
+    "odata.metadata": "http://ott.online.meo.pt/Program/v9/$metadata#DvrLiveChannelProgram",
+    "odata.count": "15",
+    "value": [
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "61",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "61",
+                    "LiveChannelProgramId": "36137318",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "62",
+                        "ParentId": "61",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_Special_All",
+                        "Path": "/Entretenimento/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "62",
+                    "LiveChannelProgramId": "36137318",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "68",
+                        "ParentId": "61",
+                        "Name": "Música",
+                        "Code": "MSEPGC_Special_Music",
+                        "Path": "/Entretenimento/Música",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "68",
+                    "LiveChannelProgramId": "36137318",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "109",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "109",
+                    "LiveChannelProgramId": "36137318",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36137318",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T23:02:00",
+            "StartTime": "23:02",
+            "ProgramId": 20587000,
+            "EndDate": "2024-10-03T00:21:00",
+            "Title": "Dillaz: Festival F 2024",
+            "Synopsis": "Concerto de Dillaz gravado no Festival F, em Faro. Dillaz conta no seu currículo com duas mixtapes ('Sagrada Família' & 'Sagrada Família Vol.2') o EP Dillaz & Spliff ('Cria Actividade') e mais recentemente 'Reflexo' álbum escrito e produzido pelo próprio . Devido ao seu trabalho, andou de norte a sul de Portugal contando com atuações nos principais festivais académicos e de verão.",
+            "SeriesId": null,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": null,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Dillaz: Festival F 2024",
+            "IsBlackout": false,
+            "Thematics": "Música",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 99,
+            "SharpEnd": 416,
+            "SharpUpdateTime": "2024-10-03T00:42:20.2"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "61",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "61",
+                    "LiveChannelProgramId": "36137317",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "62",
+                        "ParentId": "61",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_Special_All",
+                        "Path": "/Entretenimento/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "62",
+                    "LiveChannelProgramId": "36137317",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "66",
+                        "ParentId": "61",
+                        "Name": "Humor",
+                        "Code": "MSEPGC_Special_Humor",
+                        "Path": "/Entretenimento/Humor",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "66",
+                    "LiveChannelProgramId": "36137317",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "69",
+                        "ParentId": "61",
+                        "Name": "Talk Show",
+                        "Code": "MSEPGC_Special_Talk",
+                        "Path": "/Entretenimento/Talk Show",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "69",
+                    "LiveChannelProgramId": "36137317",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "109",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "109",
+                    "LiveChannelProgramId": "36137317",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36137317",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T21:38:00",
+            "StartTime": "21:38",
+            "ProgramId": 20586985,
+            "EndDate": "2024-10-02T23:02:00",
+            "Title": "Cá Por Casa com Herman José T11 - Ep. 2",
+            "Synopsis": "Neste 'Cá Por Casa', Herman José recebe Pedro Abrunhosa, Carolina Deslandes, Diogo Piçarra, Cláudio Souto e Nuno Galopim.",
+            "SeriesId": 140349,
+            "SeriesEpisodeNumber": 2,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 1,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Cá Por Casa com Herman José T11",
+            "IsBlackout": false,
+            "Thematics": "Humor, Talk Show",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 125,
+            "SharpEnd": 673,
+            "SharpUpdateTime": "2024-10-02T23:22:13.207"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "61",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "61",
+                    "LiveChannelProgramId": "36137316",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "62",
+                        "ParentId": "61",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_Special_All",
+                        "Path": "/Entretenimento/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "62",
+                    "LiveChannelProgramId": "36137316",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "63",
+                        "ParentId": "61",
+                        "Name": "Concurso",
+                        "Code": "MSEPGC_Special_Game",
+                        "Path": "/Entretenimento/Concurso",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "63",
+                    "LiveChannelProgramId": "36137316",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "109",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "109",
+                    "LiveChannelProgramId": "36137316",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36137316",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T20:37:00",
+            "StartTime": "20:37",
+            "ProgramId": 20586982,
+            "EndDate": "2024-10-02T21:38:00",
+            "Title": "Joker T8 - Ep. 70",
+            "Synopsis": "Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um só objetivo em mente: Conquistar os 50 000 euros do prémio máximo!.",
+            "SeriesId": 137420,
+            "SeriesEpisodeNumber": 70,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 6,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Joker T8",
+            "IsBlackout": false,
+            "Thematics": "Concurso",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 136,
+            "SharpEnd": 638,
+            "SharpUpdateTime": "2024-10-02T21:59:04.397"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "112",
+                        "ParentId": null,
+                        "Name": "Outros",
+                        "Code": "MSEPGC_Others",
+                        "Path": "/Outros",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "112",
+                    "LiveChannelProgramId": "36137315",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36137315",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T20:01:00",
+            "StartTime": "20:01",
+            "ProgramId": 18550877,
+            "EndDate": "2024-10-02T20:37:00",
+            "Title": "Outras Histórias T6 - Ep. 12",
+            "Synopsis": "'O Hospital dos Animais Marinhos' é uma espécie de hospital de animais marinhos que recebe espécies tão diferentes como tartarugas, golfinhos, gaivotas ou corvos-marinhos, por exemplo. A maior parte são vítimas de arrojamento ou então de ferimentos provocados por redes de pesca. Ao Centro de Reabilitação de Animais Marinhos, na Gafanha da Nazaré, chegam também animais doentes a precisar de tratamento urgente.",
+            "SeriesId": 120303,
+            "SeriesEpisodeNumber": 12,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 2,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Outras Histórias T6",
+            "IsBlackout": false,
+            "Thematics": null,
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 150,
+            "SharpEnd": 584,
+            "SharpUpdateTime": "2024-10-02T21:00:11.187"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "102",
+                        "ParentId": null,
+                        "Name": "Informação",
+                        "Code": "MSEPGC_News",
+                        "Path": "/Informação",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "102",
+                    "LiveChannelProgramId": "36061615",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "103",
+                        "ParentId": "102",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_News_All",
+                        "Path": "/Informação/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "103",
+                    "LiveChannelProgramId": "36061615",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "114",
+                        "ParentId": null,
+                        "Name": "Informação",
+                        "Code": "MSEPGC_News",
+                        "Path": "/Informação",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "114",
+                    "LiveChannelProgramId": "36061615",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36061615",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T18:59:00",
+            "StartTime": "18:59",
+            "ProgramId": 20586979,
+            "EndDate": "2024-10-02T20:01:00",
+            "Title": "Telejornal",
+            "Synopsis": "A mais rigorosa seleção de notícias, todos os dias às 20h00. De segunda a domingo, João Adelino Faria, José Rodrigues dos Santos e Ana Lourenço mostram-lhe o que de mais relevante se passou o país e no mundo. Se é importante está no Telejornal.",
+            "SeriesId": 390198704,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 8,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Telejornal",
+            "IsBlackout": false,
+            "Thematics": null,
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 107,
+            "SharpEnd": 92,
+            "SharpUpdateTime": "2024-10-02T20:22:25.33"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "61",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "61",
+                    "LiveChannelProgramId": "36061613",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "62",
+                        "ParentId": "61",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_Special_All",
+                        "Path": "/Entretenimento/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "62",
+                    "LiveChannelProgramId": "36061613",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "63",
+                        "ParentId": "61",
+                        "Name": "Concurso",
+                        "Code": "MSEPGC_Special_Game",
+                        "Path": "/Entretenimento/Concurso",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "63",
+                    "LiveChannelProgramId": "36061613",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "109",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "109",
+                    "LiveChannelProgramId": "36061613",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36061613",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T18:06:00",
+            "StartTime": "18:06",
+            "ProgramId": 20586976,
+            "EndDate": "2024-10-02T18:59:00",
+            "Title": "O Preço Certo",
+            "Synopsis": "Há mais de uma década em emissão contínua na RTP1, 'O Preço Certo', é o gameshow de maior longevidade da televisão mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, já foi transmitido em mais de 30 países. O sucesso por todo o mundo é testemunho da sua contínua popularidade e vitalidade, provando ser um clássico e intemporal formato de programas de entretenimento.",
+            "SeriesId": 2071529422,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 7,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "O Preço Certo",
+            "IsBlackout": false,
+            "Thematics": "Concurso",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 130,
+            "SharpEnd": 190,
+            "SharpUpdateTime": "2024-10-02T19:20:51.5"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "112",
+                        "ParentId": null,
+                        "Name": "Outros",
+                        "Code": "MSEPGC_Others",
+                        "Path": "/Outros",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "112",
+                    "LiveChannelProgramId": "36061612",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36061612",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T16:30:00",
+            "StartTime": "16:30",
+            "ProgramId": 20586991,
+            "EndDate": "2024-10-02T18:06:00",
+            "Title": "Portugal em Direto",
+            "Synopsis": "A atualidade diária do nosso país.",
+            "SeriesId": 19453743,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 6,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Portugal em Direto",
+            "IsBlackout": false,
+            "Thematics": null,
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 110,
+            "SharpEnd": 613,
+            "SharpUpdateTime": "2024-10-02T18:26:23.313"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "61",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "61",
+                    "LiveChannelProgramId": "36137314",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "62",
+                        "ParentId": "61",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_Special_All",
+                        "Path": "/Entretenimento/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "62",
+                    "LiveChannelProgramId": "36137314",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "70",
+                        "ParentId": "61",
+                        "Name": "Variedades",
+                        "Code": "MSEPGC_Special_Varieties",
+                        "Path": "/Entretenimento/Variedades",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "70",
+                    "LiveChannelProgramId": "36137314",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "109",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "109",
+                    "LiveChannelProgramId": "36137314",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36137314",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T14:26:00",
+            "StartTime": "14:26",
+            "ProgramId": 20586973,
+            "EndDate": "2024-10-02T16:30:00",
+            "Title": "A Nossa Tarde",
+            "Synopsis": "Pensado a partir da essência da apresentadora, Tânia Ribas de Oliveira, o programa 'A Nossa Tarde' tem, por isso, um lado mais emocional, com base em histórias com final feliz, e um lado muito divertido, ou não fosse a nossa Tânia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.",
+            "SeriesId": 465018099,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 5,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "A Nossa Tarde",
+            "IsBlackout": false,
+            "Thematics": "Variedades",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 278,
+            "SharpEnd": 187,
+            "SharpUpdateTime": "2024-10-02T16:50:29.113"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "61",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "61",
+                    "LiveChannelProgramId": "36137313",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "62",
+                        "ParentId": "61",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_Special_All",
+                        "Path": "/Entretenimento/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "62",
+                    "LiveChannelProgramId": "36137313",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "64",
+                        "ParentId": "61",
+                        "Name": "Telenovela",
+                        "Code": "MSEPGC_Special_Soap",
+                        "Path": "/Entretenimento/Telenovela",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "64",
+                    "LiveChannelProgramId": "36137313",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "109",
+                        "ParentId": null,
+                        "Name": "Entretenimento",
+                        "Code": "MSEPGC_Special",
+                        "Path": "/Entretenimento",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "109",
+                    "LiveChannelProgramId": "36137313",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "112",
+                        "ParentId": null,
+                        "Name": "Outros",
+                        "Code": "MSEPGC_Others",
+                        "Path": "/Outros",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "112",
+                    "LiveChannelProgramId": "36137313",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36137313",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T13:23:00",
+            "StartTime": "13:23",
+            "ProgramId": 20586928,
+            "EndDate": "2024-10-02T14:26:00",
+            "Title": "Amor Sem Igual - Ep. 34",
+            "Synopsis": "Angélica é uma prostituta vistosa, conhecida por 'Poderosa', que frequenta regularmente um posto de gasolina de beira da estrada. É lá que conhece o agrónomo Miguel, um paulista nobre com bom carácter, que vende os legumes que cultiva na sua propriedade. Mal se cruzam, a atração é evidente, embora não adivinhem o que o futuro lhes reserva.",
+            "SeriesId": 139031,
+            "SeriesEpisodeNumber": 34,
+            "Participants": "Day Mesquita,Rafael Sardão,Thiago Rodrigues,Rudi Lagemann",
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 7,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Amor Sem Igual",
+            "IsBlackout": false,
+            "Thematics": "Telenovela",
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 298,
+            "SharpEnd": 287,
+            "SharpUpdateTime": "2024-10-03T01:52:10.6"
+        },
+        {
+            "RelatedThematic": [
+                {
+                    "Thematic": {
+                        "Id": "102",
+                        "ParentId": null,
+                        "Name": "Informação",
+                        "Code": "MSEPGC_News",
+                        "Path": "/Informação",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "102",
+                    "LiveChannelProgramId": "36054553",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "103",
+                        "ParentId": "102",
+                        "Name": "Todos os Programas",
+                        "Code": "MSEPGC_News_All",
+                        "Path": "/Informação/Todos os Programas",
+                        "Enabled": true,
+                        "Type": "GA"
+                    },
+                    "ThematicId": "103",
+                    "LiveChannelProgramId": "36054553",
+                    "OrderNumber": null
+                },
+                {
+                    "Thematic": {
+                        "Id": "114",
+                        "ParentId": null,
+                        "Name": "Informação",
+                        "Code": "MSEPGC_News",
+                        "Path": "/Informação",
+                        "Enabled": true,
+                        "Type": "LIVE"
+                    },
+                    "ThematicId": "114",
+                    "LiveChannelProgramId": "36054553",
+                    "OrderNumber": null
+                }
+            ],
+            "Id": "36054553",
+            "CallLetter": "RTP1",
+            "StartDate": "2024-10-02T11:59:00",
+            "StartTime": "11:59",
+            "ProgramId": 20586967,
+            "EndDate": "2024-10-02T13:23:00",
+            "Title": "Jornal da Tarde",
+            "Synopsis": "Todos os dias, às 13 horas, a sua hora de almoço é completada com a atualização das notícias que marcam a atualidade nacional e mundial, desde a política, a economia, a sociedade e sem esquecer o desporto. Reportagens no local, entrevistas em direto e sempre a isenção e o respeito pela verdade que marcam a informação na RTP.",
+            "SeriesId": 503642750,
+            "SeriesEpisodeNumber": null,
+            "Participants": null,
+            "ImageUri": null,
+            "IsAdultContent": false,
+            "IsEnabled": true,
+            "SearchRank": 0,
+            "NumberOfEpisodes": 8,
+            "IsLiveAnytimeChannel": true,
+            "TitleId": "Jornal da Tarde",
+            "IsBlackout": false,
+            "Thematics": null,
+            "AvailableOnChannels": "MEO_IPTV,MEO_PC,MEO_Mobile,MEO_ConnectedTV,LITE_ATV,LITE_Mobile,LITE_PC,MEO_NGTV,MEO_ATV,MEO_TVOS",
+            "TransmitType": null,
+            "EventYear": null,
+            "Interactive": null,
+            "SharpStart": 115,
+            "SharpEnd": 455,
+            "SharpUpdateTime": "2024-10-02T13:44:20.29"
+        }
+    ],
+    "odata.nextLink": "http://ott.online.meo.pt/program/v9/Programs/DvrLiveChannelPrograms?$format=json&UserAgent=AND_NG&$filter=StartDate%20ge%20datetime%272024-10-02T00%3A00%3A00%27%20and%20StartDate%20lt%20datetime%272024-10-02T23%3A59%3A00%27%20and%20CallLetter%20eq%20%27RTP1%27%20and%20IsEnabled%20eq%20true%20and%20IsLiveAnytimeChannel%20eq%20true%20and%20IsAdultContent%20eq%20false%20and%20IsBlackout%20eq%20false%20and%20substringof%28%27Mobile%27%2CAvailableOnChannels%29&$orderby=StartDate%20desc&$expand=RelatedThematic%2FThematic&$inlinecount=allpages&$skip=10"
+}
