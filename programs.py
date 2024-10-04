@@ -1,6 +1,10 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv
+load_dotenv()
 
+API_KEY = os.getenv("API_KEY")
 STATION_ID = 327250 # RTP1
 
 # load thematics from json file
@@ -16,9 +20,6 @@ with open('data/contents.json', 'r') as f:
         }
         for p in data
     ]
-
-# get topics vector for each program
-API_KEY = "dGVhbWQ6YmViYmIyNDg1MTFkNDlkMzgzMDE4YmYwYmFiZWFmZjQ="
 
 def get_topic_segments(station_id, start_time, end_time):
     url = f"https://mediadive.poc.alticelabs.com/pubblocks/topics/?stationId={station_id}&startTime={start_time}&endTime={end_time}"
