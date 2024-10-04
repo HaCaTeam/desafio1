@@ -1,0 +1,3138 @@
+[
+    {
+        "start_period": "2024-10-02T20:06:38Z",
+        "end_period": "2024-10-02T20:07:05Z",
+        "description": "Travel",
+        "n_segments": 2,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-29T16:32:04Z",
+        "end_period": "2024-09-29T16:34:48Z",
+        "description": "Travel",
+        "n_segments": 2,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-10-03T01:22:44Z",
+        "end_period": "2024-10-03T01:23:21Z",
+        "description": "Travel",
+        "n_segments": 3,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-30T16:45:20Z",
+        "end_period": "2024-09-30T16:46:17Z",
+        "description": "Travel",
+        "n_segments": 3,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-30T17:14:10Z",
+        "end_period": "2024-09-30T17:17:05Z",
+        "description": "Travel",
+        "n_segments": 7,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-30T05:22:03Z",
+        "end_period": "2024-09-30T05:24:19Z",
+        "description": "Travel",
+        "n_segments": 3,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-30T05:54:32Z",
+        "end_period": "2024-09-30T05:55:29Z",
+        "description": "Travel",
+        "n_segments": 3,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-30T08:55:41Z",
+        "end_period": "2024-09-30T08:56:38Z",
+        "description": "Travel",
+        "n_segments": 3,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-29T19:33:31Z",
+        "end_period": "2024-09-29T19:35:59Z",
+        "description": "Travel",
+        "n_segments": 2,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-30T22:11:02Z",
+        "end_period": "2024-09-30T22:11:26Z",
+        "description": "Travel",
+        "n_segments": 2,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-09-30T22:24:31Z",
+        "end_period": "2024-09-30T22:26:37Z",
+        "description": "Travel",
+        "n_segments": 3,
+        "rank": 43
+    },
+    {
+        "start_period": "2024-10-02T20:47:52Z",
+        "end_period": "2024-10-02T20:49:56Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 3,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-30T09:06:15Z",
+        "end_period": "2024-09-30T09:07:35Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 3,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-29T14:50:34Z",
+        "end_period": "2024-09-29T14:51:52Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 4,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-29T16:12:00Z",
+        "end_period": "2024-09-29T16:12:42Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 2,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-29T16:50:24Z",
+        "end_period": "2024-09-29T16:51:57Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 5,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-29T17:00:35Z",
+        "end_period": "2024-09-29T17:01:33Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 3,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-29T17:33:28Z",
+        "end_period": "2024-09-29T17:34:58Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 5,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-29T17:49:23Z",
+        "end_period": "2024-09-29T17:52:28Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 6,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-09-29T13:16:59Z",
+        "end_period": "2024-09-29T13:17:25Z",
+        "description": "Hobbies & Interests",
+        "n_segments": 3,
+        "rank": 34
+    },
+    {
+        "start_period": "2024-10-02T20:45:26Z",
+        "end_period": "2024-10-02T20:47:45Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T20:49:59Z",
+        "end_period": "2024-10-02T20:55:36Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T21:12:40Z",
+        "end_period": "2024-10-02T21:15:10Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T21:16:13Z",
+        "end_period": "2024-10-02T21:17:44Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T21:27:43Z",
+        "end_period": "2024-10-02T21:28:54Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T14:26:48Z",
+        "end_period": "2024-09-30T14:29:13Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T14:30:59Z",
+        "end_period": "2024-09-30T14:32:01Z",
+        "description": "Entertainment",
+        "n_segments": 5,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T14:46:46Z",
+        "end_period": "2024-09-30T14:49:27Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T15:28:28Z",
+        "end_period": "2024-09-30T15:33:41Z",
+        "description": "Entertainment",
+        "n_segments": 10,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T15:34:32Z",
+        "end_period": "2024-09-30T15:37:17Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T16:20:31Z",
+        "end_period": "2024-09-30T16:29:06Z",
+        "description": "Entertainment",
+        "n_segments": 8,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T13:15:02Z",
+        "end_period": "2024-10-03T13:16:43Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T22:00:12Z",
+        "end_period": "2024-10-02T22:23:04Z",
+        "description": "Entertainment",
+        "n_segments": 19,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T22:23:56Z",
+        "end_period": "2024-10-02T22:28:11Z",
+        "description": "Entertainment",
+        "n_segments": 5,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T22:34:25Z",
+        "end_period": "2024-10-02T22:48:39Z",
+        "description": "Entertainment",
+        "n_segments": 26,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T20:53:58Z",
+        "end_period": "2024-10-03T20:55:49Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T20:57:00Z",
+        "end_period": "2024-10-03T21:06:55Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T21:13:06Z",
+        "end_period": "2024-10-03T21:13:30Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T21:29:45Z",
+        "end_period": "2024-10-03T21:32:20Z",
+        "description": "Entertainment",
+        "n_segments": 8,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T23:19:37Z",
+        "end_period": "2024-10-02T23:27:00Z",
+        "description": "Entertainment",
+        "n_segments": 9,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T23:42:13Z",
+        "end_period": "2024-10-02T23:47:20Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T23:55:04Z",
+        "end_period": "2024-10-03T00:05:12Z",
+        "description": "Entertainment",
+        "n_segments": 9,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T00:18:58Z",
+        "end_period": "2024-10-03T00:19:12Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T22:59:49Z",
+        "end_period": "2024-09-29T23:04:16Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T23:15:04Z",
+        "end_period": "2024-09-29T23:49:20Z",
+        "description": "Entertainment",
+        "n_segments": 26,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T18:31:23Z",
+        "end_period": "2024-09-30T18:32:41Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T18:55:31Z",
+        "end_period": "2024-09-30T18:57:31Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T14:24:59Z",
+        "end_period": "2024-09-30T14:25:27Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T22:51:09Z",
+        "end_period": "2024-10-03T23:25:04Z",
+        "description": "Entertainment",
+        "n_segments": 7,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-04T00:20:08Z",
+        "end_period": "2024-10-04T00:34:12Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-04T00:41:46Z",
+        "end_period": "2024-10-04T00:44:07Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T20:14:25Z",
+        "end_period": "2024-10-02T20:15:40Z",
+        "description": "Entertainment",
+        "n_segments": 5,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T21:39:28Z",
+        "end_period": "2024-10-03T21:39:50Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-01T21:30:38Z",
+        "end_period": "2024-10-01T21:33:13Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T09:00:00Z",
+        "end_period": "2024-09-30T09:06:09Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T09:45:18Z",
+        "end_period": "2024-09-30T09:46:08Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T09:54:54Z",
+        "end_period": "2024-09-30T09:59:59Z",
+        "description": "Entertainment",
+        "n_segments": 7,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T11:06:14Z",
+        "end_period": "2024-09-30T11:11:21Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T11:47:05Z",
+        "end_period": "2024-09-30T11:51:53Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T14:21:06Z",
+        "end_period": "2024-09-29T14:32:00Z",
+        "description": "Entertainment",
+        "n_segments": 9,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T14:51:56Z",
+        "end_period": "2024-09-29T15:00:43Z",
+        "description": "Entertainment",
+        "n_segments": 10,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T15:19:37Z",
+        "end_period": "2024-09-29T15:20:58Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T15:41:35Z",
+        "end_period": "2024-09-29T15:49:22Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T16:01:01Z",
+        "end_period": "2024-09-29T16:06:50Z",
+        "description": "Entertainment",
+        "n_segments": 7,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T16:20:04Z",
+        "end_period": "2024-09-29T16:24:35Z",
+        "description": "Entertainment",
+        "n_segments": 8,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T16:36:39Z",
+        "end_period": "2024-09-29T16:37:30Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T16:45:09Z",
+        "end_period": "2024-09-29T16:46:27Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T16:54:50Z",
+        "end_period": "2024-09-29T16:55:34Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T17:16:27Z",
+        "end_period": "2024-09-29T17:19:05Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T17:45:24Z",
+        "end_period": "2024-09-29T17:49:18Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T18:06:30Z",
+        "end_period": "2024-09-29T18:09:53Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T18:50:07Z",
+        "end_period": "2024-09-29T18:54:25Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T13:24:15Z",
+        "end_period": "2024-10-03T13:25:39Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T00:26:26Z",
+        "end_period": "2024-10-03T00:27:03Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T00:39:18Z",
+        "end_period": "2024-10-03T00:43:19Z",
+        "description": "Entertainment",
+        "n_segments": 7,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T00:44:04Z",
+        "end_period": "2024-10-03T00:45:07Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-03T00:57:47Z",
+        "end_period": "2024-10-03T00:59:52Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T20:34:10Z",
+        "end_period": "2024-09-29T20:37:03Z",
+        "description": "Entertainment",
+        "n_segments": 7,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T20:43:46Z",
+        "end_period": "2024-09-29T20:57:15Z",
+        "description": "Entertainment",
+        "n_segments": 8,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T21:00:34Z",
+        "end_period": "2024-09-29T21:56:40Z",
+        "description": "Entertainment",
+        "n_segments": 37,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T22:01:16Z",
+        "end_period": "2024-09-29T22:46:46Z",
+        "description": "Entertainment",
+        "n_segments": 48,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T20:53:08Z",
+        "end_period": "2024-09-30T20:54:20Z",
+        "description": "Entertainment",
+        "n_segments": 5,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T02:12:59Z",
+        "end_period": "2024-09-30T02:14:02Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T21:02:36Z",
+        "end_period": "2024-09-30T21:09:14Z",
+        "description": "Entertainment",
+        "n_segments": 7,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T21:10:32Z",
+        "end_period": "2024-09-30T21:11:44Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T21:19:00Z",
+        "end_period": "2024-09-30T21:21:20Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T21:42:22Z",
+        "end_period": "2024-09-30T21:42:55Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T21:51:09Z",
+        "end_period": "2024-09-30T21:52:16Z",
+        "description": "Entertainment",
+        "n_segments": 5,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T17:57:23Z",
+        "end_period": "2024-09-30T17:58:01Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T13:37:22Z",
+        "end_period": "2024-09-29T13:37:39Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T05:40:32Z",
+        "end_period": "2024-09-29T05:43:52Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T06:13:41Z",
+        "end_period": "2024-09-29T06:16:03Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T06:52:15Z",
+        "end_period": "2024-09-29T06:54:24Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T06:57:58Z",
+        "end_period": "2024-09-29T06:59:46Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T05:29:22Z",
+        "end_period": "2024-09-30T05:30:07Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T01:50:31Z",
+        "end_period": "2024-09-29T01:56:17Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T02:05:37Z",
+        "end_period": "2024-09-29T02:06:28Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T02:08:08Z",
+        "end_period": "2024-09-29T02:09:03Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T02:13:34Z",
+        "end_period": "2024-09-29T02:16:34Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T02:22:45Z",
+        "end_period": "2024-09-29T02:33:22Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T07:48:41Z",
+        "end_period": "2024-09-29T07:49:52Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T08:45:59Z",
+        "end_period": "2024-09-29T08:50:16Z",
+        "description": "Entertainment",
+        "n_segments": 10,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T08:58:44Z",
+        "end_period": "2024-09-29T08:59:37Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T09:19:12Z",
+        "end_period": "2024-09-29T09:24:59Z",
+        "description": "Entertainment",
+        "n_segments": 16,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T10:38:10Z",
+        "end_period": "2024-09-29T10:57:02Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T11:29:03Z",
+        "end_period": "2024-09-29T11:31:16Z",
+        "description": "Entertainment",
+        "n_segments": 5,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-29T11:38:47Z",
+        "end_period": "2024-09-29T11:39:02Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T02:57:46Z",
+        "end_period": "2024-09-30T02:58:51Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-01T13:27:34Z",
+        "end_period": "2024-10-01T13:28:23Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-01T20:41:56Z",
+        "end_period": "2024-10-01T20:43:22Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-01T20:55:30Z",
+        "end_period": "2024-10-01T20:57:16Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-01T21:14:02Z",
+        "end_period": "2024-10-01T21:17:02Z",
+        "description": "Entertainment",
+        "n_segments": 4,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-01T21:20:45Z",
+        "end_period": "2024-10-01T21:22:15Z",
+        "description": "Entertainment",
+        "n_segments": 6,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-01T20:02:45Z",
+        "end_period": "2024-10-01T20:04:45Z",
+        "description": "Entertainment",
+        "n_segments": 7,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T22:55:56Z",
+        "end_period": "2024-09-30T23:16:58Z",
+        "description": "Entertainment",
+        "n_segments": 16,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T23:23:39Z",
+        "end_period": "2024-09-30T23:42:53Z",
+        "description": "Entertainment",
+        "n_segments": 9,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T00:22:19Z",
+        "end_period": "2024-09-30T00:22:39Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T00:33:43Z",
+        "end_period": "2024-09-30T00:34:53Z",
+        "description": "Entertainment",
+        "n_segments": 3,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T00:52:57Z",
+        "end_period": "2024-09-30T00:56:33Z",
+        "description": "Entertainment",
+        "n_segments": 2,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-09-30T01:03:20Z",
+        "end_period": "2024-09-30T01:12:28Z",
+        "description": "Entertainment",
+        "n_segments": 5,
+        "rank": 23
+    },
+    {
+        "start_period": "2024-10-02T21:07:15Z",
+        "end_period": "2024-10-02T21:07:40Z",
+        "description": "War and Conflicts",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T21:07:45Z",
+        "end_period": "2024-10-02T21:08:10Z",
+        "description": "Pets",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T21:30:15Z",
+        "end_period": "2024-10-02T21:30:29Z",
+        "description": "Pets",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T21:31:21Z",
+        "end_period": "2024-10-02T21:32:26Z",
+        "description": "Sports",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T21:33:36Z",
+        "end_period": "2024-10-02T21:34:21Z",
+        "description": "Medical Health",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T21:35:16Z",
+        "end_period": "2024-10-02T21:35:44Z",
+        "description": "Automotive",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T14:34:04Z",
+        "end_period": "2024-09-30T14:40:08Z",
+        "description": "Food & Drink",
+        "n_segments": 7,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T14:44:51Z",
+        "end_period": "2024-09-30T14:46:41Z",
+        "description": "Movies & Music",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T14:49:31Z",
+        "end_period": "2024-09-30T14:56:21Z",
+        "description": "Education",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T14:56:48Z",
+        "end_period": "2024-09-30T15:00:48Z",
+        "description": "Education",
+        "n_segments": 14,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T15:00:51Z",
+        "end_period": "2024-09-30T15:01:16Z",
+        "description": "Personal Celebrations & Life Events",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T15:07:12Z",
+        "end_period": "2024-09-30T15:09:49Z",
+        "description": "Education",
+        "n_segments": 7,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T15:09:52Z",
+        "end_period": "2024-09-30T15:17:00Z",
+        "description": "Family and Relationships",
+        "n_segments": 19,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T15:20:01Z",
+        "end_period": "2024-09-30T15:22:26Z",
+        "description": "Food & Drink",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T15:33:50Z",
+        "end_period": "2024-09-30T15:34:29Z",
+        "description": "Food & Drink",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T15:37:21Z",
+        "end_period": "2024-09-30T15:58:29Z",
+        "description": "Medical Health",
+        "n_segments": 19,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T15:59:31Z",
+        "end_period": "2024-09-30T16:17:59Z",
+        "description": "Medical Health",
+        "n_segments": 34,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T09:32:02Z",
+        "end_period": "2024-09-29T10:01:02Z",
+        "description": "Religion & Spirituality",
+        "n_segments": 25,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T10:03:36Z",
+        "end_period": "2024-09-29T10:11:47Z",
+        "description": "Religion & Spirituality",
+        "n_segments": 7,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T10:18:38Z",
+        "end_period": "2024-09-29T10:23:03Z",
+        "description": "Religion & Spirituality",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T10:25:13Z",
+        "end_period": "2024-09-29T10:25:48Z",
+        "description": "Events & Attractions",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T22:23:10Z",
+        "end_period": "2024-10-02T22:23:45Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T22:54:47Z",
+        "end_period": "2024-10-02T22:56:58Z",
+        "description": "Shopping",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T23:01:32Z",
+        "end_period": "2024-10-02T23:01:50Z",
+        "description": "Sports",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T20:56:01Z",
+        "end_period": "2024-10-03T20:56:52Z",
+        "description": "Business and Finance",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T21:14:48Z",
+        "end_period": "2024-10-03T21:15:04Z",
+        "description": "Books and Literature",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T23:27:39Z",
+        "end_period": "2024-10-02T23:29:14Z",
+        "description": "Sensitive Topics",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:17:25Z",
+        "end_period": "2024-10-03T00:17:44Z",
+        "description": "Sports",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T23:56:35Z",
+        "end_period": "2024-09-29T23:57:12Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T23:57:51Z",
+        "end_period": "2024-09-29T23:58:08Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T18:40:00Z",
+        "end_period": "2024-09-30T18:41:07Z",
+        "description": "Home & Garden",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T18:47:20Z",
+        "end_period": "2024-09-30T18:55:27Z",
+        "description": "Shopping",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T13:24:13Z",
+        "end_period": "2024-09-30T13:24:30Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T13:25:13Z",
+        "end_period": "2024-09-30T13:27:33Z",
+        "description": "Family and Relationships",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T13:44:57Z",
+        "end_period": "2024-09-30T13:53:21Z",
+        "description": "Family and Relationships",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T13:58:40Z",
+        "end_period": "2024-09-30T13:59:19Z",
+        "description": "Business and Finance",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T14:00:16Z",
+        "end_period": "2024-09-30T14:00:29Z",
+        "description": "Personal Celebrations & Life Events",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T14:09:42Z",
+        "end_period": "2024-09-30T14:13:30Z",
+        "description": "Sports",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T14:19:41Z",
+        "end_period": "2024-09-30T14:19:59Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T23:49:54Z",
+        "end_period": "2024-10-03T23:50:23Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T23:51:11Z",
+        "end_period": "2024-10-03T23:52:20Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T23:56:40Z",
+        "end_period": "2024-10-03T23:57:58Z",
+        "description": "Events & Attractions",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T23:52:37Z",
+        "end_period": "2024-10-01T23:53:18Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T23:54:46Z",
+        "end_period": "2024-10-01T23:55:08Z",
+        "description": "Food & Drink",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T23:56:36Z",
+        "end_period": "2024-10-01T23:57:12Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T13:15:22Z",
+        "end_period": "2024-09-30T13:16:04Z",
+        "description": "Education",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T13:16:42Z",
+        "end_period": "2024-09-30T13:17:38Z",
+        "description": "Business and Finance",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T01:10:08Z",
+        "end_period": "2024-10-02T01:10:52Z",
+        "description": "Politics",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T01:17:50Z",
+        "end_period": "2024-10-02T01:21:27Z",
+        "description": "Education",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T20:13:13Z",
+        "end_period": "2024-10-02T20:13:40Z",
+        "description": "Books and Literature",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T20:20:04Z",
+        "end_period": "2024-10-02T20:22:11Z",
+        "description": "Food & Drink",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T20:22:16Z",
+        "end_period": "2024-10-02T20:22:33Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T20:23:29Z",
+        "end_period": "2024-10-02T20:27:17Z",
+        "description": "Food & Drink",
+        "n_segments": 7,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T21:54:39Z",
+        "end_period": "2024-10-03T21:59:14Z",
+        "description": "Pets",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T22:32:56Z",
+        "end_period": "2024-10-03T22:33:29Z",
+        "description": "Careers",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T21:29:43Z",
+        "end_period": "2024-10-01T21:30:33Z",
+        "description": "War and Conflicts",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T21:35:40Z",
+        "end_period": "2024-10-01T21:39:37Z",
+        "description": "War and Conflicts",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T21:53:31Z",
+        "end_period": "2024-10-01T21:56:02Z",
+        "description": "Shopping",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T21:59:21Z",
+        "end_period": "2024-10-01T21:59:59Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T22:00:04Z",
+        "end_period": "2024-10-01T22:04:16Z",
+        "description": "War and Conflicts",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T22:04:19Z",
+        "end_period": "2024-10-01T22:24:17Z",
+        "description": "Politics",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T22:53:39Z",
+        "end_period": "2024-10-01T22:54:48Z",
+        "description": "Sports",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T22:55:33Z",
+        "end_period": "2024-10-01T22:56:14Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T22:56:45Z",
+        "end_period": "2024-10-01T22:57:13Z",
+        "description": "Environment",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T09:19:05Z",
+        "end_period": "2024-09-30T09:19:59Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T09:46:29Z",
+        "end_period": "2024-09-30T09:47:56Z",
+        "description": "Events & Attractions",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T10:59:30Z",
+        "end_period": "2024-09-30T10:59:59Z",
+        "description": "Medical Health",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T11:04:28Z",
+        "end_period": "2024-09-30T11:05:57Z",
+        "description": "Healthy Living",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T11:15:59Z",
+        "end_period": "2024-09-30T11:16:11Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T11:17:11Z",
+        "end_period": "2024-09-30T11:17:50Z",
+        "description": "Style & Fashion",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T11:19:31Z",
+        "end_period": "2024-09-30T11:43:23Z",
+        "description": "Food & Drink",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:52:51Z",
+        "end_period": "2024-09-29T13:57:54Z",
+        "description": "Events & Attractions",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T14:12:17Z",
+        "end_period": "2024-09-29T14:19:13Z",
+        "description": "Food & Drink",
+        "n_segments": 14,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T14:35:19Z",
+        "end_period": "2024-09-29T14:35:55Z",
+        "description": "Business and Finance",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T14:37:47Z",
+        "end_period": "2024-09-29T14:38:16Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T14:44:39Z",
+        "end_period": "2024-09-29T14:50:25Z",
+        "description": "Events & Attractions",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T15:00:54Z",
+        "end_period": "2024-09-29T15:02:36Z",
+        "description": "Fine Art",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T15:10:45Z",
+        "end_period": "2024-09-29T15:13:25Z",
+        "description": "Food & Drink",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T15:13:28Z",
+        "end_period": "2024-09-29T15:18:01Z",
+        "description": "Fine Art",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T15:21:11Z",
+        "end_period": "2024-09-29T15:27:17Z",
+        "description": "Fine Art",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T15:30:22Z",
+        "end_period": "2024-09-29T15:36:12Z",
+        "description": "Food & Drink",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T15:52:26Z",
+        "end_period": "2024-09-29T15:56:17Z",
+        "description": "Food & Drink",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T16:11:27Z",
+        "end_period": "2024-09-29T16:11:57Z",
+        "description": "Books and Literature",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T16:12:49Z",
+        "end_period": "2024-09-29T16:19:31Z",
+        "description": "Events & Attractions",
+        "n_segments": 12,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T16:37:36Z",
+        "end_period": "2024-09-29T16:37:50Z",
+        "description": "Productivity",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T16:52:00Z",
+        "end_period": "2024-09-29T16:52:25Z",
+        "description": "Events & Attractions",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T16:58:43Z",
+        "end_period": "2024-09-29T17:00:11Z",
+        "description": "Family and Relationships",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T17:01:43Z",
+        "end_period": "2024-09-29T17:02:42Z",
+        "description": "Fine Art",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T17:13:28Z",
+        "end_period": "2024-09-29T17:16:20Z",
+        "description": "Food & Drink",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T17:35:01Z",
+        "end_period": "2024-09-29T17:36:30Z",
+        "description": "Fine Art",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T17:41:24Z",
+        "end_period": "2024-09-29T17:44:23Z",
+        "description": "Events & Attractions",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:04:12Z",
+        "end_period": "2024-09-29T18:05:53Z",
+        "description": "Home & Garden",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:09:56Z",
+        "end_period": "2024-09-29T18:13:33Z",
+        "description": "Events & Attractions",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:15:19Z",
+        "end_period": "2024-09-29T18:15:44Z",
+        "description": "Sports",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:16:09Z",
+        "end_period": "2024-09-29T18:17:33Z",
+        "description": "Shopping",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:27:44Z",
+        "end_period": "2024-09-29T18:29:36Z",
+        "description": "Food & Drink",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:29:41Z",
+        "end_period": "2024-09-29T18:30:03Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:30:06Z",
+        "end_period": "2024-09-29T18:46:05Z",
+        "description": "Food & Drink",
+        "n_segments": 17,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:54:28Z",
+        "end_period": "2024-09-29T18:57:19Z",
+        "description": "Automotive",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T13:26:21Z",
+        "end_period": "2024-10-03T13:26:38Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T13:35:05Z",
+        "end_period": "2024-10-03T13:49:05Z",
+        "description": "Family and Relationships",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T13:51:42Z",
+        "end_period": "2024-10-03T13:53:59Z",
+        "description": "Home & Garden",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T14:00:00Z",
+        "end_period": "2024-10-03T14:00:22Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T14:03:51Z",
+        "end_period": "2024-10-03T14:04:03Z",
+        "description": "Food & Drink",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T14:07:47Z",
+        "end_period": "2024-10-03T14:08:23Z",
+        "description": "Personal Celebrations & Life Events",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T14:20:02Z",
+        "end_period": "2024-10-03T14:20:41Z",
+        "description": "Sensitive Topics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T01:16:28Z",
+        "end_period": "2024-10-03T01:18:34Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T01:20:00Z",
+        "end_period": "2024-10-03T01:22:21Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T01:23:48Z",
+        "end_period": "2024-10-03T01:29:00Z",
+        "description": "Environment",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T01:29:04Z",
+        "end_period": "2024-10-03T01:30:50Z",
+        "description": "Sports",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:22:16Z",
+        "end_period": "2024-10-03T00:26:22Z",
+        "description": "Movies & Music",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:27:20Z",
+        "end_period": "2024-10-03T00:27:39Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:29:43Z",
+        "end_period": "2024-10-03T00:32:34Z",
+        "description": "Books and Literature",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:32:37Z",
+        "end_period": "2024-10-03T00:34:15Z",
+        "description": "Movies & Music",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:37:39Z",
+        "end_period": "2024-10-03T00:38:26Z",
+        "description": "Pop Culture",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:38:40Z",
+        "end_period": "2024-10-03T00:39:02Z",
+        "description": "Education",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:50:50Z",
+        "end_period": "2024-10-03T00:52:24Z",
+        "description": "Movies & Music",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T00:52:41Z",
+        "end_period": "2024-10-03T00:54:36Z",
+        "description": "Movies & Music",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T01:00:00Z",
+        "end_period": "2024-10-03T01:01:16Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T01:03:14Z",
+        "end_period": "2024-10-03T01:13:59Z",
+        "description": "Movies & Music",
+        "n_segments": 14,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:37:09Z",
+        "end_period": "2024-09-29T20:37:33Z",
+        "description": "Family and Relationships",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:43:01Z",
+        "end_period": "2024-09-29T20:43:28Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:58:55Z",
+        "end_period": "2024-09-29T20:59:21Z",
+        "description": "Pop Culture",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T22:52:12Z",
+        "end_period": "2024-09-29T22:53:00Z",
+        "description": "Medical Health",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T22:56:19Z",
+        "end_period": "2024-09-29T22:57:29Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T20:18:31Z",
+        "end_period": "2024-09-30T20:19:35Z",
+        "description": "Politics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T20:56:17Z",
+        "end_period": "2024-09-30T20:57:34Z",
+        "description": "Business and Finance",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:04:15Z",
+        "end_period": "2024-09-30T02:12:30Z",
+        "description": "Movies & Music",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:14:10Z",
+        "end_period": "2024-09-30T02:16:24Z",
+        "description": "Movies & Music",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:19:02Z",
+        "end_period": "2024-09-30T02:23:50Z",
+        "description": "Movies & Music",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:24:02Z",
+        "end_period": "2024-09-30T02:24:57Z",
+        "description": "War and Conflicts",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:29:45Z",
+        "end_period": "2024-09-30T02:36:22Z",
+        "description": "Movies & Music",
+        "n_segments": 16,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T21:09:20Z",
+        "end_period": "2024-09-30T21:09:56Z",
+        "description": "Religion & Spirituality",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T21:13:03Z",
+        "end_period": "2024-09-30T21:13:38Z",
+        "description": "Fine Art",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T21:18:02Z",
+        "end_period": "2024-09-30T21:18:23Z",
+        "description": "Books and Literature",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T21:23:33Z",
+        "end_period": "2024-09-30T21:24:26Z",
+        "description": "Movies & Music",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T21:36:49Z",
+        "end_period": "2024-09-30T21:37:02Z",
+        "description": "Religion & Spirituality",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T21:52:42Z",
+        "end_period": "2024-09-30T21:53:18Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T21:55:10Z",
+        "end_period": "2024-09-30T21:55:36Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T16:35:13Z",
+        "end_period": "2024-09-30T16:38:24Z",
+        "description": "Disasters",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T16:38:27Z",
+        "end_period": "2024-09-30T16:39:55Z",
+        "description": "Politics",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T16:40:00Z",
+        "end_period": "2024-09-30T16:41:52Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T16:41:55Z",
+        "end_period": "2024-09-30T16:45:10Z",
+        "description": "Politics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T17:00:00Z",
+        "end_period": "2024-09-30T17:03:42Z",
+        "description": "Medical Health",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T17:17:33Z",
+        "end_period": "2024-09-30T17:21:51Z",
+        "description": "Environment",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T17:21:54Z",
+        "end_period": "2024-09-30T17:23:53Z",
+        "description": "Fine Art",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T17:24:13Z",
+        "end_period": "2024-09-30T17:24:56Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T17:52:31Z",
+        "end_period": "2024-09-30T17:56:17Z",
+        "description": "Politics",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T11:59:02Z",
+        "end_period": "2024-09-29T11:59:58Z",
+        "description": "Politics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:04:34Z",
+        "end_period": "2024-09-29T12:07:39Z",
+        "description": "Disasters",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:07:57Z",
+        "end_period": "2024-09-29T12:12:08Z",
+        "description": "War and Conflicts",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:12:11Z",
+        "end_period": "2024-09-29T12:13:10Z",
+        "description": "Politics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:14:25Z",
+        "end_period": "2024-09-29T12:18:50Z",
+        "description": "Disasters",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:18:54Z",
+        "end_period": "2024-09-29T12:19:59Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:24:15Z",
+        "end_period": "2024-09-29T12:28:47Z",
+        "description": "Medical Health",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:28:54Z",
+        "end_period": "2024-09-29T12:30:41Z",
+        "description": "Religion & Spirituality",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:30:48Z",
+        "end_period": "2024-09-29T12:31:46Z",
+        "description": "Politics",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:31:52Z",
+        "end_period": "2024-09-29T12:35:11Z",
+        "description": "Disasters",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:47:34Z",
+        "end_period": "2024-09-29T12:48:43Z",
+        "description": "Sports",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:49:21Z",
+        "end_period": "2024-09-29T12:49:54Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T12:56:19Z",
+        "end_period": "2024-09-29T12:56:36Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:03:39Z",
+        "end_period": "2024-09-29T13:05:23Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:06:00Z",
+        "end_period": "2024-09-29T13:09:09Z",
+        "description": "Events & Attractions",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:55:01Z",
+        "end_period": "2024-09-29T04:56:34Z",
+        "description": "Environment",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:56:37Z",
+        "end_period": "2024-09-29T04:57:02Z",
+        "description": "Politics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:57:07Z",
+        "end_period": "2024-09-29T04:57:38Z",
+        "description": "Environment",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:57:45Z",
+        "end_period": "2024-09-29T04:58:44Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T02:55:16Z",
+        "end_period": "2024-09-29T02:56:31Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T02:56:59Z",
+        "end_period": "2024-09-29T02:59:59Z",
+        "description": "Home & Garden",
+        "n_segments": 12,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:00:12Z",
+        "end_period": "2024-09-29T03:01:47Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:01:56Z",
+        "end_period": "2024-09-29T03:02:41Z",
+        "description": "Home & Garden",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:02:46Z",
+        "end_period": "2024-09-29T03:04:20Z",
+        "description": "Shopping",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:04:29Z",
+        "end_period": "2024-09-29T03:07:37Z",
+        "description": "Home & Garden",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:11:13Z",
+        "end_period": "2024-09-29T03:13:17Z",
+        "description": "Shopping",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:13:20Z",
+        "end_period": "2024-09-29T03:13:58Z",
+        "description": "Home & Garden",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:14:01Z",
+        "end_period": "2024-09-29T03:17:17Z",
+        "description": "Shopping",
+        "n_segments": 7,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:30:57Z",
+        "end_period": "2024-09-29T03:38:21Z",
+        "description": "Shopping",
+        "n_segments": 15,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:38:24Z",
+        "end_period": "2024-09-29T03:38:40Z",
+        "description": "Medical Health",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:38:45Z",
+        "end_period": "2024-09-29T03:47:16Z",
+        "description": "Home & Garden",
+        "n_segments": 17,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:47:48Z",
+        "end_period": "2024-09-29T03:52:11Z",
+        "description": "Home & Garden",
+        "n_segments": 14,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T03:52:22Z",
+        "end_period": "2024-09-29T03:53:59Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:00:12Z",
+        "end_period": "2024-09-29T04:01:26Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:01:38Z",
+        "end_period": "2024-09-29T04:02:42Z",
+        "description": "Home & Garden",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:02:47Z",
+        "end_period": "2024-09-29T04:13:17Z",
+        "description": "Shopping",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:13:20Z",
+        "end_period": "2024-09-29T04:13:58Z",
+        "description": "Home & Garden",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:14:08Z",
+        "end_period": "2024-09-29T04:27:25Z",
+        "description": "Shopping",
+        "n_segments": 26,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T04:27:28Z",
+        "end_period": "2024-09-29T04:30:37Z",
+        "description": "Home & Garden",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:16:07Z",
+        "end_period": "2024-09-29T13:16:32Z",
+        "description": "Style & Fashion",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:17:35Z",
+        "end_period": "2024-09-29T13:18:15Z",
+        "description": "Style & Fashion",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:18:58Z",
+        "end_period": "2024-09-29T13:21:10Z",
+        "description": "Style & Fashion",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:21:48Z",
+        "end_period": "2024-09-29T13:24:47Z",
+        "description": "Style & Fashion",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:24:51Z",
+        "end_period": "2024-09-29T13:26:05Z",
+        "description": "Fine Art",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:26:52Z",
+        "end_period": "2024-09-29T13:28:26Z",
+        "description": "Fine Art",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:30:57Z",
+        "end_period": "2024-09-29T13:31:52Z",
+        "description": "Family and Relationships",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:32:01Z",
+        "end_period": "2024-09-29T13:34:17Z",
+        "description": "Education",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:35:43Z",
+        "end_period": "2024-09-29T13:36:15Z",
+        "description": "Fine Art",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T13:36:20Z",
+        "end_period": "2024-09-29T13:36:39Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T05:13:44Z",
+        "end_period": "2024-09-29T05:24:40Z",
+        "description": "Family and Relationships",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T05:24:45Z",
+        "end_period": "2024-09-29T05:25:15Z",
+        "description": "Personal Celebrations & Life Events",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T05:34:57Z",
+        "end_period": "2024-09-29T05:35:56Z",
+        "description": "Family and Relationships",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T05:53:38Z",
+        "end_period": "2024-09-29T05:53:58Z",
+        "description": "Communication",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T05:55:49Z",
+        "end_period": "2024-09-29T05:56:21Z",
+        "description": "Pets",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T05:59:05Z",
+        "end_period": "2024-09-29T06:02:18Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T06:05:14Z",
+        "end_period": "2024-09-29T06:06:00Z",
+        "description": "Fine Art",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T06:25:10Z",
+        "end_period": "2024-09-29T06:25:35Z",
+        "description": "Education",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T06:33:55Z",
+        "end_period": "2024-09-29T06:43:28Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T06:49:10Z",
+        "end_period": "2024-09-29T06:51:34Z",
+        "description": "Disasters",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T06:51:42Z",
+        "end_period": "2024-09-29T06:52:09Z",
+        "description": "Sports",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T06:56:39Z",
+        "end_period": "2024-09-29T06:57:52Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T13:26:20Z",
+        "end_period": "2024-10-02T13:28:14Z",
+        "description": "Family and Relationships",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T13:41:18Z",
+        "end_period": "2024-10-02T13:42:00Z",
+        "description": "Sports",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T13:42:09Z",
+        "end_period": "2024-10-02T13:49:11Z",
+        "description": "Family and Relationships",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T14:04:52Z",
+        "end_period": "2024-10-02T14:05:19Z",
+        "description": "Sensitive Topics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T14:08:38Z",
+        "end_period": "2024-10-02T14:10:55Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-02T14:18:18Z",
+        "end_period": "2024-10-02T14:22:56Z",
+        "description": "Family and Relationships",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:00:09Z",
+        "end_period": "2024-09-30T05:01:07Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:01:44Z",
+        "end_period": "2024-09-30T05:07:46Z",
+        "description": "Disasters",
+        "n_segments": 12,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:08:46Z",
+        "end_period": "2024-09-30T05:16:52Z",
+        "description": "Politics",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:16:56Z",
+        "end_period": "2024-09-30T05:19:02Z",
+        "description": "Disasters",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:19:08Z",
+        "end_period": "2024-09-30T05:21:59Z",
+        "description": "Education",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:30:36Z",
+        "end_period": "2024-09-30T05:31:32Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:33:52Z",
+        "end_period": "2024-09-30T05:34:16Z",
+        "description": "Education",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:36:33Z",
+        "end_period": "2024-09-30T05:37:32Z",
+        "description": "Automotive",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:37:35Z",
+        "end_period": "2024-09-30T05:38:56Z",
+        "description": "Politics",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:39:25Z",
+        "end_period": "2024-09-30T05:39:59Z",
+        "description": "Personal Celebrations & Life Events",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:40:00Z",
+        "end_period": "2024-09-30T05:44:49Z",
+        "description": "Business and Finance",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:46:33Z",
+        "end_period": "2024-09-30T05:50:00Z",
+        "description": "Disasters",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:50:03Z",
+        "end_period": "2024-09-30T05:53:02Z",
+        "description": "Environment",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T05:53:06Z",
+        "end_period": "2024-09-30T05:54:18Z",
+        "description": "Politics",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:02:43Z",
+        "end_period": "2024-09-30T06:05:16Z",
+        "description": "Disasters",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:05:22Z",
+        "end_period": "2024-09-30T06:06:33Z",
+        "description": "Automotive",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:10:29Z",
+        "end_period": "2024-09-30T06:11:32Z",
+        "description": "Politics",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:11:53Z",
+        "end_period": "2024-09-30T06:13:10Z",
+        "description": "War and Conflicts",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:20:00Z",
+        "end_period": "2024-09-30T06:22:57Z",
+        "description": "Sports",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:34:03Z",
+        "end_period": "2024-09-30T06:40:34Z",
+        "description": "Disasters",
+        "n_segments": 12,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:40:43Z",
+        "end_period": "2024-09-30T06:43:06Z",
+        "description": "Automotive",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:43:12Z",
+        "end_period": "2024-09-30T06:48:29Z",
+        "description": "Politics",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:49:59Z",
+        "end_period": "2024-09-30T06:51:10Z",
+        "description": "Disasters",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T06:55:08Z",
+        "end_period": "2024-09-30T06:58:56Z",
+        "description": "Sports",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T07:07:49Z",
+        "end_period": "2024-09-30T07:08:43Z",
+        "description": "Education",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T07:08:46Z",
+        "end_period": "2024-09-30T07:11:34Z",
+        "description": "Medical Health",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T08:01:13Z",
+        "end_period": "2024-09-30T08:05:15Z",
+        "description": "Disasters",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T08:05:18Z",
+        "end_period": "2024-09-30T08:07:59Z",
+        "description": "Automotive",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T08:12:11Z",
+        "end_period": "2024-09-30T08:14:51Z",
+        "description": "Politics",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T08:20:00Z",
+        "end_period": "2024-09-30T08:24:25Z",
+        "description": "Sports",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T08:34:37Z",
+        "end_period": "2024-09-30T08:39:27Z",
+        "description": "Disasters",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T08:40:05Z",
+        "end_period": "2024-09-30T08:44:03Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T08:56:46Z",
+        "end_period": "2024-09-30T08:57:14Z",
+        "description": "Movies & Music",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T02:07:36Z",
+        "end_period": "2024-09-29T02:08:05Z",
+        "description": "Books and Literature",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T02:10:00Z",
+        "end_period": "2024-09-29T02:10:37Z",
+        "description": "Books and Literature",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T02:38:45Z",
+        "end_period": "2024-09-29T02:41:43Z",
+        "description": "Home & Garden",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T02:42:57Z",
+        "end_period": "2024-09-29T02:50:50Z",
+        "description": "Home & Garden",
+        "n_segments": 16,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:00:13Z",
+        "end_period": "2024-09-29T07:02:29Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:11:25Z",
+        "end_period": "2024-09-29T07:13:58Z",
+        "description": "Real Estate",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:14:04Z",
+        "end_period": "2024-09-29T07:16:02Z",
+        "description": "Personal Finance",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:16:11Z",
+        "end_period": "2024-09-29T07:16:39Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:16:44Z",
+        "end_period": "2024-09-29T07:17:25Z",
+        "description": "Medical Health",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:17:36Z",
+        "end_period": "2024-09-29T07:18:05Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:19:17Z",
+        "end_period": "2024-09-29T07:29:46Z",
+        "description": "Sports",
+        "n_segments": 16,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:36:12Z",
+        "end_period": "2024-09-29T07:36:38Z",
+        "description": "Movies & Music",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:37:48Z",
+        "end_period": "2024-09-29T07:44:17Z",
+        "description": "Medical Health",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T07:53:57Z",
+        "end_period": "2024-09-29T07:54:42Z",
+        "description": "Sensitive Topics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:00:14Z",
+        "end_period": "2024-09-29T08:02:03Z",
+        "description": "Politics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:02:11Z",
+        "end_period": "2024-09-29T08:02:35Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:02:45Z",
+        "end_period": "2024-09-29T08:06:51Z",
+        "description": "Politics",
+        "n_segments": 15,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:07:04Z",
+        "end_period": "2024-09-29T08:08:35Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:08:39Z",
+        "end_period": "2024-09-29T08:16:06Z",
+        "description": "Politics",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:16:10Z",
+        "end_period": "2024-09-29T08:16:37Z",
+        "description": "Medical Health",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:16:46Z",
+        "end_period": "2024-09-29T08:17:09Z",
+        "description": "Sports",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:18:10Z",
+        "end_period": "2024-09-29T08:19:55Z",
+        "description": "Books and Literature",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:24:20Z",
+        "end_period": "2024-09-29T08:26:04Z",
+        "description": "Sports",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:41:52Z",
+        "end_period": "2024-09-29T08:42:51Z",
+        "description": "Movies & Music",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:42:54Z",
+        "end_period": "2024-09-29T08:45:38Z",
+        "description": "Fine Art",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T08:57:26Z",
+        "end_period": "2024-09-29T08:58:36Z",
+        "description": "Shopping",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T09:00:13Z",
+        "end_period": "2024-09-29T09:05:19Z",
+        "description": "Politics",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T09:06:45Z",
+        "end_period": "2024-09-29T09:09:51Z",
+        "description": "Disasters",
+        "n_segments": 7,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T09:12:36Z",
+        "end_period": "2024-09-29T09:19:09Z",
+        "description": "Education",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T10:57:10Z",
+        "end_period": "2024-09-29T11:03:51Z",
+        "description": "Food & Drink",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T11:07:36Z",
+        "end_period": "2024-09-29T11:08:38Z",
+        "description": "Food & Drink",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T11:09:01Z",
+        "end_period": "2024-09-29T11:09:51Z",
+        "description": "Events & Attractions",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T11:20:24Z",
+        "end_period": "2024-09-29T11:28:18Z",
+        "description": "Food & Drink",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T11:36:16Z",
+        "end_period": "2024-09-29T11:36:44Z",
+        "description": "Events & Attractions",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T11:41:03Z",
+        "end_period": "2024-09-29T11:46:24Z",
+        "description": "Food & Drink",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T00:05:11Z",
+        "end_period": "2024-10-01T00:55:04Z",
+        "description": "Sports",
+        "n_segments": 40,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:49:56Z",
+        "end_period": "2024-09-30T02:52:26Z",
+        "description": "Food & Drink",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:52:43Z",
+        "end_period": "2024-09-30T02:55:58Z",
+        "description": "Business and Finance",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T02:56:12Z",
+        "end_period": "2024-09-30T02:57:07Z",
+        "description": "Food & Drink",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T20:02:08Z",
+        "end_period": "2024-10-03T20:05:18Z",
+        "description": "Medical Health",
+        "n_segments": 11,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T20:05:21Z",
+        "end_period": "2024-10-03T20:08:11Z",
+        "description": "Environment",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-03T20:16:56Z",
+        "end_period": "2024-10-03T20:37:24Z",
+        "description": "Medical Health",
+        "n_segments": 22,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T18:59:16Z",
+        "end_period": "2024-09-29T19:08:14Z",
+        "description": "Politics",
+        "n_segments": 17,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T19:09:01Z",
+        "end_period": "2024-09-29T19:10:52Z",
+        "description": "War and Conflicts",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T19:20:00Z",
+        "end_period": "2024-09-29T19:25:03Z",
+        "description": "Business and Finance",
+        "n_segments": 10,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T19:28:24Z",
+        "end_period": "2024-09-29T19:30:20Z",
+        "description": "Disasters",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T19:30:27Z",
+        "end_period": "2024-09-29T19:32:56Z",
+        "description": "Politics",
+        "n_segments": 5,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T19:44:58Z",
+        "end_period": "2024-09-29T20:07:02Z",
+        "description": "Politics",
+        "n_segments": 8,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:07:12Z",
+        "end_period": "2024-09-29T20:10:35Z",
+        "description": "Sports",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:10:39Z",
+        "end_period": "2024-09-29T20:11:43Z",
+        "description": "Movies & Music",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:16:36Z",
+        "end_period": "2024-09-29T20:17:21Z",
+        "description": "Business and Finance",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:17:54Z",
+        "end_period": "2024-09-29T20:18:47Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-29T20:18:59Z",
+        "end_period": "2024-09-29T20:19:27Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T13:32:40Z",
+        "end_period": "2024-10-01T13:32:52Z",
+        "description": "Style & Fashion",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T13:41:12Z",
+        "end_period": "2024-10-01T13:42:26Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T13:47:27Z",
+        "end_period": "2024-10-01T13:47:46Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T14:07:29Z",
+        "end_period": "2024-10-01T14:13:07Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 9,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T14:13:38Z",
+        "end_period": "2024-10-01T14:14:05Z",
+        "description": "Sensitive Topics",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T14:15:44Z",
+        "end_period": "2024-10-01T14:17:14Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:36:57Z",
+        "end_period": "2024-10-01T20:37:24Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:37:30Z",
+        "end_period": "2024-10-01T20:38:02Z",
+        "description": "Shopping",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:38:40Z",
+        "end_period": "2024-10-01T20:38:59Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:39:41Z",
+        "end_period": "2024-10-01T20:39:59Z",
+        "description": "Shopping",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:48:18Z",
+        "end_period": "2024-10-01T20:49:16Z",
+        "description": "Crime, Law & Justice",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:54:07Z",
+        "end_period": "2024-10-01T20:55:04Z",
+        "description": "Movies & Music",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T21:05:51Z",
+        "end_period": "2024-10-01T21:07:22Z",
+        "description": "Automotive",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:01:13Z",
+        "end_period": "2024-10-01T20:02:42Z",
+        "description": "Sports",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:09:28Z",
+        "end_period": "2024-10-01T20:11:09Z",
+        "description": "Careers",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:13:06Z",
+        "end_period": "2024-10-01T20:15:23Z",
+        "description": "Food & Drink",
+        "n_segments": 7,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:18:56Z",
+        "end_period": "2024-10-01T20:19:39Z",
+        "description": "Business and Finance",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-10-01T20:20:00Z",
+        "end_period": "2024-10-01T20:33:10Z",
+        "description": "Food & Drink",
+        "n_segments": 17,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T22:14:41Z",
+        "end_period": "2024-09-30T22:14:55Z",
+        "description": "Careers",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T22:26:43Z",
+        "end_period": "2024-09-30T22:28:26Z",
+        "description": "Careers",
+        "n_segments": 6,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T22:34:46Z",
+        "end_period": "2024-09-30T22:35:21Z",
+        "description": "Communication",
+        "n_segments": 3,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T22:37:42Z",
+        "end_period": "2024-09-30T22:38:19Z",
+        "description": "Careers",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T22:43:53Z",
+        "end_period": "2024-09-30T22:44:48Z",
+        "description": "Careers",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T00:28:11Z",
+        "end_period": "2024-09-30T00:33:07Z",
+        "description": "Family and Relationships",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T00:35:14Z",
+        "end_period": "2024-09-30T00:45:22Z",
+        "description": "Family and Relationships",
+        "n_segments": 4,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T00:56:42Z",
+        "end_period": "2024-09-30T00:58:01Z",
+        "description": "Disasters",
+        "n_segments": 2,
+        "rank": 0
+    },
+    {
+        "start_period": "2024-09-30T01:54:19Z",
+        "end_period": "2024-09-30T01:54:39Z",
+        "description": "Religion & Spirituality",
+        "n_segments": 2,
+        "rank": 0
+    }
+]

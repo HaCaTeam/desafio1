@@ -65,7 +65,7 @@ def clip_thumbnail(clip):
 
 if __name__ == "__main__":
 
-    with open('clips.json') as f:
+    with open('data/clips.json') as f:
         clips = json.load(f)
 
     with open('data/transcripts.csv') as f:
@@ -76,11 +76,17 @@ if __name__ == "__main__":
     transcripts = [clip_transcript(transcripts, clip) for clip in clips]
 
     llm = LLM()
-    title, summary, keywords = llm.process_transcripts(transcripts[6])   # only one clip for testing
-    print(f"\nTitle: \n{title}")
-    print(f"\nSummary: \n{summary}")
-    print(f"\nKeywords: \n{keywords}")
 
-    thumbnail = clip_thumbnail(clips[6])
-    print(f"\nThumbnail: \n{thumbnail}")
-    update_html_file(thumbnail, title[1:-1])
+    for i, t in enumerate(transcripts[:5]):
+        title, summary, keywords = llm.process_transcripts(t)   # only one clip for testing
+        print(f"\nTitle: \n{title}")
+        print(f"\nSummary: \n{summary}")
+        print(f"\nKeywords: \n{keywords}")
+
+        thumbnail = clip_thumbnail(clips[i])
+        print(f"\nThumbnail: \n{thumbnail}")
+        update_html_file(thumbnail, title[1:-1])
+
+        print("\n\n")
+        print("-" * 100)
+        print("\n\n")

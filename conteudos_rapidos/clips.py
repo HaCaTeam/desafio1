@@ -8,6 +8,7 @@ load_dotenv()
 BASE_URL = "https://mediadive.poc.alticelabs.com/pubblocks"
 API_KEY = os.getenv("API_KEY")
 STATION_ID = 327250
+PROFILE_FILE = "data/liam_example.json"
 
 
 def clips_details(station_id, start_time, end_time):
@@ -25,7 +26,7 @@ def clips_details(station_id, start_time, end_time):
 if __name__ == "__main__":
 
     # load profile
-    with open('data/david_example.json') as f:
+    with open(PROFILE_FILE) as f:
         profile = json.load(f)
 
     preferences = profile['preferences']
@@ -56,5 +57,5 @@ if __name__ == "__main__":
     clips.sort(key=lambda x: x['rank'], reverse=True)
 
     # save clips as json file
-    with open("clips.json", 'w') as f:
+    with open("data/clips.json", 'w') as f:
         json.dump(clips, f, indent=4)

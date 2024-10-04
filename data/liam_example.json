@@ -1,0 +1,1917 @@
+{
+    "preferences": {
+        "Travel": 43,
+        "Entertainment": 23,
+        "Hobbies & Interests": 34
+    },
+    "programs": [
+        {
+            "Title": "Joker T8 - Ep. 70",
+            "Synopsis": "Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um s\u00f3 objetivo em mente: Conquistar os 50 000 euros do pr\u00e9mio m\u00e1ximo!.",
+            "StartDate": "2024-10-02T20:37:00",
+            "EndDate": "2024-10-02T21:38:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 38.0
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 10.0
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 2.0
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 2.0
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 6.0
+                },
+                {
+                    "description": "Pets",
+                    "percentage": 8.0
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 2.0
+                },
+                {
+                    "description": "Video Gaming",
+                    "percentage": 2.0
+                },
+                {
+                    "description": "Education",
+                    "percentage": 2.0
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 6.0
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 2.0
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 2.0
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 6.0
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 10.0
+                },
+                {
+                    "description": "Communication",
+                    "percentage": 2.0
+                }
+            ]
+        },
+        {
+            "Title": "A Nossa Tarde",
+            "Synopsis": "Pensado a partir da ess\u00eancia da apresentadora, T\u00e2nia Ribas de Oliveira, o programa 'A Nossa Tarde' tem, por isso, um lado mais emocional, com base em hist\u00f3rias com final feliz, e um lado muito divertido, ou n\u00e3o fosse a nossa T\u00e2nia uma pessoa que gosta de dar umas belas e sonoras gargalhadas.",
+            "StartDate": "2024-09-30T14:26:00",
+            "EndDate": "2024-09-30T16:30:00",
+            "Topics": [
+                {
+                    "description": "Movies & Music",
+                    "percentage": 2.366863905325444
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 20.118343195266274
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 12.42603550295858
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 31.360946745562128
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 1.7751479289940828
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 11.242603550295858
+                },
+                {
+                    "description": "Education",
+                    "percentage": 17.159763313609467
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 0.591715976331361
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 0.591715976331361
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 0.591715976331361
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 0.591715976331361
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 0.591715976331361
+                },
+                {
+                    "description": "Communication",
+                    "percentage": 0.591715976331361
+                }
+            ]
+        },
+        {
+            "Title": "Eucaristia Dominical",
+            "Synopsis": "A celebra\u00e7\u00e3o dominical do Dia e da Eucaristia do Senhor est\u00e1 no centro da vida da Igreja Cat\u00f3lica.",
+            "StartDate": "2024-09-29T09:30:00",
+            "EndDate": "2024-09-29T10:28:00",
+            "Topics": [
+                {
+                    "description": "Movies & Music",
+                    "percentage": 2.272727272727273
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 2.272727272727273
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 4.545454545454546
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 90.9090909090909
+                }
+            ]
+        },
+        {
+            "Title": "Hora Da Sorte - Lotaria Popular - Ep. 40",
+            "Synopsis": "\u00c0s quintas-feiras uma emiss\u00e3o especial que inclui a extra\u00e7\u00e3o dos n\u00fameros da sorte da Lotaria Popular.",
+            "StartDate": "2024-10-03T13:15:00",
+            "EndDate": "2024-10-03T13:23:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 100.0
+                }
+            ]
+        },
+        {
+            "Title": "C\u00e1 Por Casa com Herman Jos\u00e9 T11 - Ep. 2",
+            "Synopsis": "Neste 'C\u00e1 Por Casa', Herman Jos\u00e9 recebe Pedro Abrunhosa, Carolina Deslandes, Diogo Pi\u00e7arra, Cl\u00e1udio Souto e Nuno Galopim.",
+            "StartDate": "2024-10-02T21:38:00",
+            "EndDate": "2024-10-02T23:02:00",
+            "Topics": [
+                {
+                    "description": "Books and Literature",
+                    "percentage": 1.4285714285714286
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 74.28571428571429
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 2.857142857142857
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 1.4285714285714286
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 1.4285714285714286
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 1.4285714285714286
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 12.857142857142856
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 1.4285714285714286
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 2.857142857142857
+                }
+            ]
+        },
+        {
+            "Title": "Joker T8 - Ep. 71",
+            "Synopsis": "Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um s\u00f3 objetivo em mente: Conquistar os 50 000 euros do pr\u00e9mio m\u00e1ximo!.",
+            "StartDate": "2024-10-03T20:38:00",
+            "EndDate": "2024-10-03T21:38:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 8.823529411764707
+                },
+                {
+                    "description": "Books and Literature",
+                    "percentage": 8.823529411764707
+                },
+                {
+                    "description": "Video Gaming",
+                    "percentage": 2.941176470588235
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 8.823529411764707
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 67.64705882352942
+                },
+                {
+                    "description": "Education",
+                    "percentage": 2.941176470588235
+                }
+            ]
+        },
+        {
+            "Title": "Dillaz: Festival F 2024",
+            "Synopsis": "Concerto de Dillaz gravado no Festival F, em Faro. Dillaz conta no seu curr\u00edculo com duas mixtapes ('Sagrada Fam\u00edlia' & 'Sagrada Fam\u00edlia Vol.2') o EP Dillaz & Spliff ('Cria Actividade') e mais recentemente 'Reflexo' \u00e1lbum escrito e produzido pelo pr\u00f3prio . Devido ao seu trabalho, andou de norte a sul de Portugal contando com atua\u00e7\u00f5es nos principais festivais acad\u00e9micos e de ver\u00e3o.",
+            "StartDate": "2024-10-02T23:02:00",
+            "EndDate": "2024-10-03T00:21:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 72.72727272727273
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 3.0303030303030303
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 18.181818181818183
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 6.0606060606060606
+                }
+            ]
+        },
+        {
+            "Title": "The Voice Portugal - Os Apurados T12 - Ep. 1",
+            "Synopsis": "O palco do The Voice Portugal volta a brilhar para mais uma temporada. S\u00f3nia Tavares, Fernando Daniel, Sara Correia e Nininho Vaz Maia v\u00e3o ocupar as cadeiras do The Voice Portugal, por onde v\u00e3o passar vozes absolutamente inacredit\u00e1veis. As surpresas v\u00e3o ser muitas, com apresenta\u00e7\u00e3o de Catarina Furtado.",
+            "StartDate": "2024-09-29T22:59:00",
+            "EndDate": "2024-09-30T00:02:00",
+            "Topics": [
+                {
+                    "description": "Home & Garden",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Business and Finance",
+                    "percentage": 4.651162790697675
+                },
+                {
+                    "description": "Video Gaming",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 74.4186046511628
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 4.651162790697675
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 2.3255813953488373
+                }
+            ]
+        },
+        {
+            "Title": "O Pre\u00e7o Certo",
+            "Synopsis": "H\u00e1 mais de uma d\u00e9cada em emiss\u00e3o cont\u00ednua na RTP1, 'O Pre\u00e7o Certo', \u00e9 o gameshow de maior longevidade da televis\u00e3o mundial. Estreado pela primeira vez em 1956 nos Estados Unidos, j\u00e1 foi transmitido em mais de 30 pa\u00edses. O sucesso por todo o mundo \u00e9 testemunho da sua cont\u00ednua popularidade e vitalidade, provando ser um cl\u00e1ssico e intemporal formato de programas de entretenimento.",
+            "StartDate": "2024-09-30T18:05:00",
+            "EndDate": "2024-09-30T18:59:00",
+            "Topics": [
+                {
+                    "description": "Home & Garden",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Business and Finance",
+                    "percentage": 4.166666666666666
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 33.33333333333333
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 4.166666666666666
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 41.66666666666667
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 4.166666666666666
+                },
+                {
+                    "description": "Communication",
+                    "percentage": 4.166666666666666
+                }
+            ]
+        },
+        {
+            "Title": "Amor Sem Igual - Ep. 32",
+            "Synopsis": "Ang\u00e9lica \u00e9 uma prostituta vistosa, conhecida por 'Poderosa', que frequenta regularmente um posto de gasolina de beira da estrada. \u00c9 l\u00e1 que conhece o agr\u00f3nomo Miguel, um paulista nobre com bom car\u00e1cter, que vende os legumes que cultiva na sua propriedade. Mal se cruzam, a atra\u00e7\u00e3o \u00e9 evidente, embora n\u00e3o adivinhem o que o futuro lhes reserva.",
+            "StartDate": "2024-09-30T13:23:00",
+            "EndDate": "2024-09-30T14:26:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 13.793103448275861
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 31.03448275862069
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 6.896551724137931
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 6.896551724137931
+                },
+                {
+                    "description": "Education",
+                    "percentage": 3.4482758620689653
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 6.896551724137931
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 3.4482758620689653
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 10.344827586206897
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 3.4482758620689653
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 13.793103448275861
+                }
+            ]
+        },
+        {
+            "Title": "Delfins - 40 Anos",
+            "Synopsis": "Miguel \u00c2ngelo, Fernando Cunha, Lu\u00eds Sampaio, Rui Fadigas, Jorge Quadros e Dora Fidalgo subiram ao palco para brindarem o p\u00fablico com as can\u00e7\u00f5es mais aclamadas da banda. Al\u00e9m dos temas 'Sou Como Um Rio', 'Ba\u00eda de Cascais', 'Nasce Selvagem', 'A Cor Azul' ou '1 Lugar ao Sol', os Delfins trouxeram v\u00e1rias surpresas para os seus f\u00e3s, nesta noite \u00fanica na Altice Arena, em Lisboa.",
+            "StartDate": "2024-10-03T22:34:00",
+            "EndDate": "2024-10-04T00:46:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 50.0
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 4.166666666666666
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 4.166666666666666
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 4.166666666666666
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 4.166666666666666
+                }
+            ]
+        },
+        {
+            "Title": "Nunca Nada Aconteceu",
+            "Synopsis": "Um bairro nos sub\u00farbios de Lisboa. Filas de edif\u00edcios, luzes fracas, ningu\u00e9m consegue dormir. Tr\u00eas adolescentes - Pedro, Maria e Paulo ? est\u00e3o no topo de um viaduto. Eles andam at\u00e9 \u00e0 borda. Meses antes, Ant\u00f3nio fecha a porta da sua casa no campo pela \u00faltima vez. Muda-se para Lisboa, sacrificando-se pela sua fam\u00edlia. Pouco a pouco, av\u00f4 e neto ficam mais pr\u00f3ximos tornam-se mais chegados, enquanto Lena e Jorge (filho e nora) se afastam.",
+            "StartDate": "2024-10-01T22:58:00",
+            "EndDate": "2024-10-02T01:09:00",
+            "Topics": [
+                {
+                    "description": "Home & Garden",
+                    "percentage": 6.25
+                },
+                {
+                    "description": "Books and Literature",
+                    "percentage": 6.25
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 12.5
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 6.25
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 6.25
+                },
+                {
+                    "description": "Education",
+                    "percentage": 12.5
+                },
+                {
+                    "description": "Careers",
+                    "percentage": 6.25
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 31.25
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 12.5
+                }
+            ]
+        },
+        {
+            "Title": "Hora Da Sorte - Lotaria Cl\u00e1ssica - Ep. 40",
+            "Synopsis": "\u00c0s segundas-feiras uma emiss\u00e3o especial que inclui a extra\u00e7\u00e3o dos n\u00fameros da sorte da Lotaria Cl\u00e1ssica.",
+            "StartDate": "2024-09-30T13:15:00",
+            "EndDate": "2024-09-30T13:23:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 42.857142857142854
+                },
+                {
+                    "description": "Education",
+                    "percentage": 42.857142857142854
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 14.285714285714285
+                }
+            ]
+        },
+        {
+            "Title": "Terra Europa T1 - Ep. 48",
+            "Synopsis": "A s\u00e9rie acompanha o trabalho dos eurodeputados e das institui\u00e7\u00f5es europeias como nunca antes visto, atrav\u00e9s de quatro novas r\u00fabricas. Descomplicar a Europa com o 'Dicion\u00e1rio Europeu'. Construir a Europa, com a participa\u00e7\u00e3o de jovens portugueses eleitores. Dar espa\u00e7o \u00e0 cultura atrav\u00e9s do 'Cinema Europa', com a divulga\u00e7\u00e3o dos festivais e pr\u00eamios europeus. E conhecer os 27 Estados membros, com um segmento de estat\u00edsticas europeias.",
+            "StartDate": "2024-10-02T01:09:00",
+            "EndDate": "2024-10-02T01:30:00",
+            "Topics": [
+                {
+                    "description": "Disasters",
+                    "percentage": 9.090909090909092
+                },
+                {
+                    "description": "Education",
+                    "percentage": 36.36363636363637
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 9.090909090909092
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 45.45454545454545
+                }
+            ]
+        },
+        {
+            "Title": "Outras Hist\u00f3rias T6 - Ep. 12",
+            "Synopsis": "'O Hospital dos Animais Marinhos' \u00e9 uma esp\u00e9cie de hospital de animais marinhos que recebe esp\u00e9cies t\u00e3o diferentes como tartarugas, golfinhos, gaivotas ou corvos-marinhos, por exemplo. A maior parte s\u00e3o v\u00edtimas de arrojamento ou ent\u00e3o de ferimentos provocados por redes de pesca. Ao Centro de Reabilita\u00e7\u00e3o de Animais Marinhos, na Gafanha da Nazar\u00e9, chegam tamb\u00e9m animais doentes a precisar de tratamento urgente.",
+            "StartDate": "2024-10-02T20:01:00",
+            "EndDate": "2024-10-02T20:37:00",
+            "Topics": [
+                {
+                    "description": "Travel",
+                    "percentage": 10.0
+                },
+                {
+                    "description": "Books and Literature",
+                    "percentage": 6.666666666666667
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 3.3333333333333335
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 6.666666666666667
+                },
+                {
+                    "description": "Education",
+                    "percentage": 3.3333333333333335
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 6.666666666666667
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 3.3333333333333335
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 36.666666666666664
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 3.3333333333333335
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 3.3333333333333335
+                }
+            ]
+        },
+        {
+            "Title": "Algu\u00e9m Tem De O Fazer T1 - Ep. 12",
+            "Synopsis": "Levantar pesos no gin\u00e1sio ou baldes de cimento nas obras? Dos que trabalham no duro aos que trabalham 'os duros', Jos\u00e9 Pedro Vasconcelos vai comprovar que n\u00e3o existem duas profiss\u00f5es t\u00e3o diferentes que, ao mesmo tempo, tenham tantas semelhan\u00e7as.",
+            "StartDate": "2024-10-03T21:38:00",
+            "EndDate": "2024-10-03T22:34:00",
+            "Topics": [
+                {
+                    "description": "Pets",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Careers",
+                    "percentage": 33.33333333333333
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 8.333333333333332
+                }
+            ]
+        },
+        {
+            "Title": "\u00c9 Ou N\u00e3o \u00c9? - O Grande Debate",
+            "Synopsis": "\u00c9 Ou N\u00e3o \u00c9? - O Grande Debate: A Sa\u00fade Sexual dos Portugueses. \u00c9 t\u00e3o natural como a pr\u00f3pria vida. A sexualidade \u00e9 inerente \u00e0 condi\u00e7\u00e3o humana e um elemento importante no bem-estar f\u00edsico, emocional, mental e social de cada um. Mas, apesar de os tempos mudarem, o sexo ainda \u00e9 um tabu para muitos e os problemas s\u00e3o muitas vezes vividos em sil\u00eancio.",
+            "StartDate": "2024-10-01T21:27:00",
+            "EndDate": "2024-10-01T22:58:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 1.8518518518518516
+                },
+                {
+                    "description": "Video Gaming",
+                    "percentage": 1.8518518518518516
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 12.962962962962962
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 1.8518518518518516
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 3.7037037037037033
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 25.925925925925924
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 18.51851851851852
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 3.7037037037037033
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 1.8518518518518516
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 11.11111111111111
+                }
+            ]
+        },
+        {
+            "Title": "Pra\u00e7a da Alegria",
+            "Synopsis": "Jorge Gabriel e S\u00f3nia Ara\u00fajo d\u00e3o-lhe as boas vindas \u00e0 Pra\u00e7a da Alegria! Porque sabemos que gosta da nossa companhia, oferecemos boa disposi\u00e7\u00e3o at\u00e9 \u00e0 hora de almo\u00e7o! De segunda a sexta-feira, a Pra\u00e7a da Alegria leva at\u00e9 si a melhor m\u00fasica, as \u00faltimas tend\u00eancias da moda, conselhos \u00fateis e muitas dicas que facilitam o seu dia-a-dia.",
+            "StartDate": "2024-09-30T09:00:00",
+            "EndDate": "2024-09-30T11:59:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 3.3333333333333335
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 38.333333333333336
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 5.0
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 3.3333333333333335
+                },
+                {
+                    "description": "Style & Fashion",
+                    "percentage": 6.666666666666667
+                },
+                {
+                    "description": "Healthy Living",
+                    "percentage": 8.333333333333332
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 3.3333333333333335
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 6.666666666666667
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 16.666666666666664
+                }
+            ]
+        },
+        {
+            "Title": "Aqui Portugal: Pombal (Tarde)",
+            "Synopsis": "O programa que percorre e aquece os cora\u00e7\u00f5es de norte a sul do pa\u00eds, dando a conhecer o que de melhor Portugal tem para oferecer. Uma viagem \u00e0 descoberta da cultura, da gastronomia e das tradi\u00e7\u00f5es locais, sempre com muita m\u00fasica a animar os fins de semana na RTP.",
+            "StartDate": "2024-09-29T13:50:00",
+            "EndDate": "2024-09-29T18:59:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 2.4096385542168677
+                },
+                {
+                    "description": "Productivity",
+                    "percentage": 0.8032128514056224
+                },
+                {
+                    "description": "Home & Garden",
+                    "percentage": 2.0080321285140563
+                },
+                {
+                    "description": "Books and Literature",
+                    "percentage": 0.8032128514056224
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 24.497991967871485
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 1.6064257028112447
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 12.048192771084338
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 22.89156626506024
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 1.2048192771084338
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 0.8032128514056224
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 14.859437751004014
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 4.016064257028113
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 0.4016064257028112
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 10.441767068273093
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 1.2048192771084338
+                }
+            ]
+        },
+        {
+            "Title": "Amor Sem Igual - Ep. 35",
+            "Synopsis": "Ang\u00e9lica \u00e9 uma prostituta vistosa, conhecida por 'Poderosa', que frequenta regularmente um posto de gasolina de beira da estrada. \u00c9 l\u00e1 que conhece o agr\u00f3nomo Miguel, um paulista nobre com bom car\u00e1cter, que vende os legumes que cultiva na sua propriedade. Mal se cruzam, a atra\u00e7\u00e3o \u00e9 evidente, embora n\u00e3o adivinhem o que o futuro lhes reserva.",
+            "StartDate": "2024-10-03T13:23:00",
+            "EndDate": "2024-10-03T14:29:00",
+            "Topics": [
+                {
+                    "description": "Home & Garden",
+                    "percentage": 5.714285714285714
+                },
+                {
+                    "description": "Business and Finance",
+                    "percentage": 2.857142857142857
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 17.142857142857142
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 28.57142857142857
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 5.714285714285714
+                },
+                {
+                    "description": "Education",
+                    "percentage": 2.857142857142857
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 5.714285714285714
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 11.428571428571429
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 5.714285714285714
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 8.571428571428571
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 2.857142857142857
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 2.857142857142857
+                }
+            ]
+        },
+        {
+            "Title": "Do Algarve \u00c0 Lap\u00f3nia - Ep. 12",
+            "Synopsis": "Dos pa\u00edses n\u00f3rdicos ao mediterr\u00e2neo, passando pela regi\u00e3o dos balc\u00e3s, o programa vai revelar projetos que receberam fundos europeus em \u00e1reas t\u00e3o diversas como a agricultura, a cria\u00e7\u00e3o de emprego, as novas fontes de energia, o combate \u00e0 pobreza, as altera\u00e7\u00f5es clim\u00e1ticas, a integra\u00e7\u00e3o de refugiados e muito mais. O programa conta com a apresenta\u00e7\u00e3o de Alexandra Andr\u00e9 e Victor Hugo Mendes.",
+            "StartDate": "2024-10-03T01:14:00",
+            "EndDate": "2024-10-03T01:31:00",
+            "Topics": [
+                {
+                    "description": "Travel",
+                    "percentage": 11.428571428571429
+                },
+                {
+                    "description": "Education",
+                    "percentage": 2.857142857142857
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 31.428571428571427
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 2.857142857142857
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 40.0
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 11.428571428571429
+                }
+            ]
+        },
+        {
+            "Title": "Janela Indiscreta T16 - Ep. 40",
+            "Synopsis": "O Janela Indiscreta \u00e9 o seu programa de cinema! Apresenta, em primeira m\u00e3o, estreias cinematogr\u00e1ficas e entrevistas exclusivas aos protagonistas das produ\u00e7\u00f5es nacionais e internacionais, dando a conhecer curiosidades e hist\u00f3rias de bastidores.",
+            "StartDate": "2024-10-03T00:21:00",
+            "EndDate": "2024-10-03T01:14:00",
+            "Topics": [
+                {
+                    "description": "Books and Literature",
+                    "percentage": 8.108108108108109
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 51.35135135135135
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 25.675675675675674
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 2.7027027027027026
+                },
+                {
+                    "description": "Education",
+                    "percentage": 2.7027027027027026
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 1.3513513513513513
+                },
+                {
+                    "description": "Pop Culture",
+                    "percentage": 2.7027027027027026
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 1.3513513513513513
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 4.054054054054054
+                }
+            ]
+        },
+        {
+            "Title": "The Voice Portugal T12 - Ep. 2",
+            "Synopsis": "O palco do The Voice Portugal volta a brilhar para mais uma temporada. S\u00f3nia Tavares, Fernando Daniel, Sara Correia e Nininho Vaz Maia v\u00e3o ocupar as cadeiras do The Voice Portugal, por onde v\u00e3o passar vozes absolutamente inacredit\u00e1veis. As surpresas v\u00e3o ser muitas, com apresenta\u00e7\u00e3o de Catarina Furtado.",
+            "StartDate": "2024-09-29T20:25:00",
+            "EndDate": "2024-09-29T22:59:00",
+            "Topics": [
+                {
+                    "description": "Books and Literature",
+                    "percentage": 0.8130081300813009
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 4.878048780487805
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 84.5528455284553
+                },
+                {
+                    "description": "Education",
+                    "percentage": 0.8130081300813009
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 1.6260162601626018
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 0.8130081300813009
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 0.8130081300813009
+                },
+                {
+                    "description": "Pop Culture",
+                    "percentage": 1.6260162601626018
+                },
+                {
+                    "description": "Healthy Living",
+                    "percentage": 1.6260162601626018
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 1.6260162601626018
+                },
+                {
+                    "description": "Personal Finance",
+                    "percentage": 0.8130081300813009
+                }
+            ]
+        },
+        {
+            "Title": "O Conto Do Nadador",
+            "Synopsis": "Uma hist\u00f3ria de um tempo em que o mist\u00e9rio fazia a diferen\u00e7a e onde impera o mais subtil sentido de observa\u00e7\u00e3o. Tudo come\u00e7a com a morte do Nadador, descoberto \u00e0 beira da fal\u00e9sia. Mas, at\u00e9 hoje, n\u00e3o se sabe quem deu o tiro fatal, apesar de uma investiga\u00e7\u00e3o minuciosa por parte da Policia Judici\u00e1ria, com especial aten\u00e7\u00e3o a tr\u00eas raparigas - duas irm\u00e3s e uma amiga, que ali se encontram de f\u00e9rias.",
+            "StartDate": "2024-09-30T20:01:00",
+            "EndDate": "2024-09-30T21:01:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 23.52941176470588
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 11.76470588235294
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 29.411764705882355
+                },
+                {
+                    "description": "Style & Fashion",
+                    "percentage": 5.88235294117647
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 11.76470588235294
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 5.88235294117647
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 5.88235294117647
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 5.88235294117647
+                }
+            ]
+        },
+        {
+            "Title": "Janela Indiscreta T16 - Ep. 39",
+            "Synopsis": "O Janela Indiscreta \u00e9 o seu programa de cinema! Apresenta, em primeira m\u00e3o, estreias cinematogr\u00e1ficas e entrevistas exclusivas aos protagonistas das produ\u00e7\u00f5es nacionais e internacionais, dando a conhecer curiosidades e hist\u00f3rias de bastidores.",
+            "StartDate": "2024-09-30T02:03:00",
+            "EndDate": "2024-09-30T02:44:00",
+            "Topics": [
+                {
+                    "description": "Movies & Music",
+                    "percentage": 79.62962962962963
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 12.962962962962962
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 3.7037037037037033
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 1.8518518518518516
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 1.8518518518518516
+                }
+            ]
+        },
+        {
+            "Title": "Joker T8 - Ep. 68",
+            "Synopsis": "Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um s\u00f3 objetivo em mente: Conquistar os 50 000 euros do pr\u00e9mio m\u00e1ximo!.",
+            "StartDate": "2024-09-30T21:01:00",
+            "EndDate": "2024-09-30T22:02:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 4.651162790697675
+                },
+                {
+                    "description": "Books and Literature",
+                    "percentage": 4.651162790697675
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 9.30232558139535
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 51.162790697674424
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 4.651162790697675
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 9.30232558139535
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 6.976744186046512
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 2.3255813953488373
+                }
+            ]
+        },
+        {
+            "Title": "Portugal em Direto",
+            "Synopsis": "A atualidade di\u00e1ria do nosso pa\u00eds.",
+            "StartDate": "2024-09-30T16:30:00",
+            "EndDate": "2024-09-30T18:05:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 7.4074074074074066
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 18.51851851851852
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 3.7037037037037033
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 9.25925925925926
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 5.555555555555555
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 20.37037037037037
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 1.8518518518518516
+                }
+            ]
+        },
+        {
+            "Title": "Jornal da Tarde",
+            "Synopsis": "Todos os dias, \u00e0s 13 horas, a sua hora de almo\u00e7o \u00e9 completada com a atualiza\u00e7\u00e3o das not\u00edcias que marcam a atualidade nacional e mundial, desde a pol\u00edtica, a economia, a sociedade e sem esquecer o desporto. Reportagens no local, entrevistas em direto e sempre a isen\u00e7\u00e3o e o respeito pela verdade que marcam a informa\u00e7\u00e3o na RTP.",
+            "StartDate": "2024-09-29T11:59:00",
+            "EndDate": "2024-09-29T13:15:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 7.317073170731707
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 1.2195121951219512
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 10.975609756097562
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 1.2195121951219512
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 1.2195121951219512
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 25.609756097560975
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 4.878048780487805
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 12.195121951219512
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 9.75609756097561
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 19.51219512195122
+                },
+                {
+                    "description": "Healthy Living",
+                    "percentage": 1.2195121951219512
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 1.2195121951219512
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 3.6585365853658534
+                }
+            ]
+        },
+        {
+            "Title": "Todas as Palavras",
+            "Synopsis": "Ana Daniela Soares e In\u00eas Fonseca Santos apresentam os livros e os autores que nos emocionam.",
+            "StartDate": "2024-09-29T04:39:00",
+            "EndDate": "2024-09-29T05:00:00",
+            "Topics": [
+                {
+                    "description": "Environment",
+                    "percentage": 53.84615384615385
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 46.15384615384615
+                }
+            ]
+        },
+        {
+            "Title": "Televendas",
+            "Synopsis": "Todos os dias, um espa\u00e7o dedicado a vendas por televis\u00e3o, em que s\u00e3o feitas demonstra\u00e7\u00f5es dos produtos.",
+            "StartDate": "2024-09-29T02:51:00",
+            "EndDate": "2024-09-29T04:39:00",
+            "Topics": [
+                {
+                    "description": "Home & Garden",
+                    "percentage": 45.16129032258064
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 1.2903225806451613
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 51.61290322580645
+                },
+                {
+                    "description": "Healthy Living",
+                    "percentage": 0.6451612903225806
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 0.6451612903225806
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 0.6451612903225806
+                }
+            ]
+        },
+        {
+            "Title": "Outras Hist\u00f3rias T6 - Ep. 13",
+            "Synopsis": "\u00c9 no meio de cores, texturas, p\u00f3s, sombreados e brilhantes que Beatriz Cabral se sente realmente feliz. Desde 2019 que \u00e9 maquilhadora, no Cac\u00e9m, no concelho de Sintra. Com a maquilhagem, usa a criatividade e a habilidade para criar uma variedade de trabalhos que t\u00eam impressionado os seus seguidores, atrav\u00e9s das redes sociais.",
+            "StartDate": "2024-09-29T13:15:00",
+            "EndDate": "2024-09-29T13:50:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 10.869565217391305
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 15.217391304347828
+                },
+                {
+                    "description": "Education",
+                    "percentage": 10.869565217391305
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 2.1739130434782608
+                },
+                {
+                    "description": "Style & Fashion",
+                    "percentage": 23.91304347826087
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 30.434782608695656
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 6.521739130434782
+                }
+            ]
+        },
+        {
+            "Title": "Zig Zag",
+            "Synopsis": "A magia e a aventura est\u00e3o na RTP com o ZIG ZAG. Os desenhos animados e as s\u00e9ries mais divertidas. E tamb\u00e9m os her\u00f3is de sempre para brincar e jogar com as crian\u00e7as.",
+            "StartDate": "2024-09-29T05:00:00",
+            "EndDate": "2024-09-29T07:00:00",
+            "Topics": [
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 12.698412698412698
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 25.396825396825395
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 3.1746031746031744
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 3.1746031746031744
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 1.5873015873015872
+                },
+                {
+                    "description": "Pets",
+                    "percentage": 6.349206349206349
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 9.523809523809524
+                },
+                {
+                    "description": "Education",
+                    "percentage": 3.1746031746031744
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 4.761904761904762
+                },
+                {
+                    "description": "Maps & Navigation",
+                    "percentage": 1.5873015873015872
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 20.634920634920633
+                },
+                {
+                    "description": "Communication",
+                    "percentage": 4.761904761904762
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 3.1746031746031744
+                }
+            ]
+        },
+        {
+            "Title": "Amor Sem Igual - Ep. 34",
+            "Synopsis": "Ang\u00e9lica \u00e9 uma prostituta vistosa, conhecida por 'Poderosa', que frequenta regularmente um posto de gasolina de beira da estrada. \u00c9 l\u00e1 que conhece o agr\u00f3nomo Miguel, um paulista nobre com bom car\u00e1cter, que vende os legumes que cultiva na sua propriedade. Mal se cruzam, a atra\u00e7\u00e3o \u00e9 evidente, embora n\u00e3o adivinhem o que o futuro lhes reserva.",
+            "StartDate": "2024-10-02T13:23:00",
+            "EndDate": "2024-10-02T14:26:00",
+            "Topics": [
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 44.827586206896555
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 6.896551724137931
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 6.896551724137931
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 31.03448275862069
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 10.344827586206897
+                }
+            ]
+        },
+        {
+            "Title": "Bom Dia Portugal",
+            "Synopsis": "O Bom Dia Portugal \u00e9 um programa de informa\u00e7\u00e3o apresentado por Jo\u00e3o Tom\u00e9 de Carvalho e Carla Trafaria, de 2a a 6a feira entre as 06:30h e as 10:00h. Todos os dias, o Bom Dia Portugal dedica espa\u00e7os espec\u00edficos \u00e0s not\u00edcias da atualidade nacional e internacional, desporto, meteorologia, tr\u00e2nsito e economia.",
+            "StartDate": "2024-09-30T05:00:00",
+            "EndDate": "2024-09-30T09:00:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 3.5175879396984926
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 1.0050251256281406
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 2.0100502512562812
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 3.015075376884422
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 1.0050251256281406
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 8.040201005025125
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 4.522613065326634
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 36.68341708542713
+                },
+                {
+                    "description": "Education",
+                    "percentage": 6.030150753768844
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 0.5025125628140703
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 1.507537688442211
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 2.512562814070352
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 16.582914572864322
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 0.5025125628140703
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 12.562814070351758
+                }
+            ]
+        },
+        {
+            "Title": "Caixa Alfama: Concerto de Buba Espinho",
+            "Synopsis": "Concerto de Buba Espinho no Festival Caixa Alfama. Durante dois dias a can\u00e7\u00e3o portuguesa brota das ruas do bairro de Alfama, que constitui a paisagem que se entrela\u00e7a com as vozes, o trinar da guitarra, a poesia que fica solta pelas ruas e vielas... Os v\u00e1rios palcos espalhados pelo bairro lisboeta s\u00e3o a prova viva de que o Fado consegue ser muita coisa ao mesmo tempo, sem nunca deixar de ser portugu\u00eas.",
+            "StartDate": "2024-09-29T01:43:00",
+            "EndDate": "2024-09-29T02:51:00",
+            "Topics": [
+                {
+                    "description": "Home & Garden",
+                    "percentage": 49.056603773584904
+                },
+                {
+                    "description": "Books and Literature",
+                    "percentage": 9.433962264150944
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 33.9622641509434
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 1.8867924528301887
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 1.8867924528301887
+                },
+                {
+                    "description": "Healthy Living",
+                    "percentage": 1.8867924528301887
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 1.8867924528301887
+                }
+            ]
+        },
+        {
+            "Title": "Bom Dia Portugal Fim de Semana",
+            "Synopsis": "Um espa\u00e7o informativo em que se d\u00e1 relevo \u00e0s not\u00edcias da atualidade nacional e internacional, desporto, meteorologia, tr\u00e2nsito e economia.",
+            "StartDate": "2024-09-29T07:00:00",
+            "EndDate": "2024-09-29T09:30:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 0.5747126436781609
+                },
+                {
+                    "description": "Books and Literature",
+                    "percentage": 2.2988505747126435
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 4.022988505747127
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 21.26436781609195
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 8.620689655172415
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 3.4482758620689653
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 0.5747126436781609
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 6.321839080459771
+                },
+                {
+                    "description": "Education",
+                    "percentage": 6.321839080459771
+                },
+                {
+                    "description": "Real Estate",
+                    "percentage": 1.7241379310344827
+                },
+                {
+                    "description": "Style & Fashion",
+                    "percentage": 0.5747126436781609
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 22.413793103448278
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 2.8735632183908044
+                },
+                {
+                    "description": "Personal Finance",
+                    "percentage": 2.2988505747126435
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 2.2988505747126435
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 2.2988505747126435
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 12.068965517241379
+                }
+            ]
+        },
+        {
+            "Title": "Aqui Portugal: Pombal (Manh\u00e3)",
+            "Synopsis": "O programa que percorre e aquece os cora\u00e7\u00f5es de norte a sul do pa\u00eds, dando a conhecer o que de melhor Portugal tem para oferecer. Uma viagem \u00e0 descoberta da cultura, da gastronomia e das tradi\u00e7\u00f5es locais, sempre com muita m\u00fasica a animar os fins de semana na RTP.",
+            "StartDate": "2024-09-29T10:28:00",
+            "EndDate": "2024-09-29T11:59:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 26.923076923076923
+                },
+                {
+                    "description": "Events & Attractions",
+                    "percentage": 13.461538461538462
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 3.8461538461538463
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 53.84615384615385
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 1.9230769230769231
+                }
+            ]
+        },
+        {
+            "Title": "Grandiosa Enciclop\u00e9dia Do Ludop\u00e9dio T10 - Ep. 4",
+            "Synopsis": "Carlos Manuel Albuquerque, Rui Miguel Tovar e Jo\u00e3o Nuno Coelho fazem um programa alternativo sobre futebol. Um dicion\u00e1rio da tribo da bola, com hist\u00f3rias diferentes dentro e fora das quatro linhas.",
+            "StartDate": "2024-10-01T00:04:00",
+            "EndDate": "2024-10-01T01:01:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Style & Fashion",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 2.3255813953488373
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 93.02325581395348
+                }
+            ]
+        },
+        {
+            "Title": "A Ess\u00eancia T10 - Ep. 24",
+            "Synopsis": "Programa semanal sobre a vinha e os vinhos portugueses em Portugal e no mundo. O mercado nacional e o mercado de exporta\u00e7\u00e3o. A excel\u00eancia de alguns dos nossos vinhos.",
+            "StartDate": "2024-09-30T02:44:00",
+            "EndDate": "2024-09-30T02:59:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 44.44444444444444
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 16.666666666666664
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 38.88888888888889
+                }
+            ]
+        },
+        {
+            "Title": "Linha da Frente: Servi\u00e7o Internacional de Sa\u00fade",
+            "Synopsis": "Chegam sem n\u00famero de utente. Sem passaporte e com um objetivo: Ter acesso a medica\u00e7\u00e3o cara. Conseguir um transplante. Fazer o parto, num hospital portugu\u00eas. Tudo gr\u00e1tis! Os profissionais de sa\u00fade falam de turismo de sa\u00fade organizado com riscos exponenciais e que p\u00f5e tamb\u00e9m em causa a sustentabilidade do SNS.",
+            "StartDate": "2024-10-03T20:01:00",
+            "EndDate": "2024-10-03T20:38:00",
+            "Topics": [
+                {
+                    "description": "Medical Health",
+                    "percentage": 80.48780487804879
+                },
+                {
+                    "description": "Environment",
+                    "percentage": 19.51219512195122
+                }
+            ]
+        },
+        {
+            "Title": "Telejornal",
+            "Synopsis": "A mais rigorosa sele\u00e7\u00e3o de not\u00edcias, todos os dias \u00e0s 20h00. De segunda a domingo, Jo\u00e3o Adelino Faria, Jos\u00e9 Rodrigues dos Santos e Ana Louren\u00e7o mostram-lhe o que de mais relevante se passou o pa\u00eds e no mundo. Se \u00e9 importante est\u00e1 no Telejornal.",
+            "StartDate": "2024-09-29T18:59:00",
+            "EndDate": "2024-09-29T20:25:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 18.666666666666668
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 2.666666666666667
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 8.0
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 9.333333333333334
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 1.3333333333333335
+                },
+                {
+                    "description": "War and Conflicts",
+                    "percentage": 5.333333333333334
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 1.3333333333333335
+                },
+                {
+                    "description": "Politics",
+                    "percentage": 41.333333333333336
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 5.333333333333334
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 1.3333333333333335
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 5.333333333333334
+                }
+            ]
+        },
+        {
+            "Title": "Amor Sem Igual - Ep. 33",
+            "Synopsis": "Ang\u00e9lica \u00e9 uma prostituta vistosa, conhecida por 'Poderosa', que frequenta regularmente um posto de gasolina de beira da estrada. \u00c9 l\u00e1 que conhece o agr\u00f3nomo Miguel, um paulista nobre com bom car\u00e1cter, que vende os legumes que cultiva na sua propriedade. Mal se cruzam, a atra\u00e7\u00e3o \u00e9 evidente, embora n\u00e3o adivinhem o que o futuro lhes reserva.",
+            "StartDate": "2024-10-01T13:23:00",
+            "EndDate": "2024-10-01T14:26:00",
+            "Topics": [
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 21.428571428571427
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 7.142857142857142
+                },
+                {
+                    "description": "Style & Fashion",
+                    "percentage": 4.761904761904762
+                },
+                {
+                    "description": "Fine Art",
+                    "percentage": 2.380952380952381
+                },
+                {
+                    "description": "Sensitive Topics",
+                    "percentage": 14.285714285714285
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 2.380952380952381
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 40.476190476190474
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 4.761904761904762
+                },
+                {
+                    "description": "Communication",
+                    "percentage": 2.380952380952381
+                }
+            ]
+        },
+        {
+            "Title": "Joker T8 - Ep. 69",
+            "Synopsis": "Vasco Palmeirim apresenta o JOKER, o concurso favorito dos portugueses. Um concorrente, com a ajuda de 7 Jokers e do Super Joker, responde a 12 perguntas com um s\u00f3 objetivo em mente: Conquistar os 50 000 euros do pr\u00e9mio m\u00e1ximo!.",
+            "StartDate": "2024-10-01T20:35:00",
+            "EndDate": "2024-10-01T21:27:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 11.11111111111111
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 6.666666666666667
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 2.2222222222222223
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 42.22222222222222
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 2.2222222222222223
+                },
+                {
+                    "description": "Education",
+                    "percentage": 2.2222222222222223
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 2.2222222222222223
+                },
+                {
+                    "description": "Shopping",
+                    "percentage": 13.333333333333334
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 4.444444444444445
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 11.11111111111111
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 2.2222222222222223
+                }
+            ]
+        },
+        {
+            "Title": "Mesa Portuguesa... Com Estrelas Com Certeza - Ep. 10",
+            "Synopsis": "Lu\u00eds Brito leva-nos do Alentejo at\u00e9 Angola num abrir e fechar de olhos numa hist\u00f3ria onde o Algarve \u00e9 sempre pedra angular. Depois de v\u00e1rias aventuras pelo mundo \u00e9 em Tavira que encontra o seu lugar entre os mestres gastron\u00f3micos reconhecidos pelo famoso guia vermelho franc\u00eas. O fecho deste epis\u00f3dio faz-se com uma moamba de galinha que ningu\u00e9m l\u00e1 em casa vai querer perder.",
+            "StartDate": "2024-10-01T20:01:00",
+            "EndDate": "2024-10-01T20:35:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 4.25531914893617
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 2.127659574468085
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 14.893617021276595
+                },
+                {
+                    "description": "Careers",
+                    "percentage": 8.51063829787234
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 55.319148936170215
+                },
+                {
+                    "description": "Automotive",
+                    "percentage": 2.127659574468085
+                },
+                {
+                    "description": "Sports",
+                    "percentage": 12.76595744680851
+                }
+            ]
+        },
+        {
+            "Title": "Nena E Joana Almeirante - Hip\u00f3dromo Manuel Possolo Em Cascais",
+            "Synopsis": "Dizem que n\u00e3o h\u00e1 estilo como o country no que diz respeito a contar hist\u00f3rias e Nena e Joana Almeirante, duas das mais promissoras artistas da nova gera\u00e7\u00e3o da m\u00fasica portuguesa, t\u00eam muitas para contar. T\u00eam vindo a faz\u00ea-lo atrav\u00e9s dos seus originais, mas recentemente descobriram que partilham a paix\u00e3o pela m\u00fasica country e por toda a est\u00e9tica que a rodeia - desde os acordes at\u00e9 \u00e0s botas - e que t\u00eam muitas refer\u00eancias em comum.",
+            "StartDate": "2024-09-30T22:55:00",
+            "EndDate": "2024-09-30T23:50:00",
+            "Topics": [
+                {
+                    "description": "Entertainment",
+                    "percentage": 96.15384615384616
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 3.8461538461538463
+                }
+            ]
+        },
+        {
+            "Title": "Algu\u00e9m Tem De O Fazer T1 - Ep. 11",
+            "Synopsis": "'Deitar cedo e cedo erguer' \u00e9 o lema das cantoneiras e dos pescadores. Jos\u00e9 Pedro Vasconcelos vai descobrir as rotinas de quem vive da pesca... e de quem 'pesca' nas ruas o que aos outros n\u00e3o faz falta.",
+            "StartDate": "2024-09-30T22:02:00",
+            "EndDate": "2024-09-30T22:55:00",
+            "Topics": [
+                {
+                    "description": "Business and Finance",
+                    "percentage": 6.451612903225806
+                },
+                {
+                    "description": "Travel",
+                    "percentage": 16.129032258064516
+                },
+                {
+                    "description": "Movies & Music",
+                    "percentage": 3.225806451612903
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 3.225806451612903
+                },
+                {
+                    "description": "Careers",
+                    "percentage": 45.16129032258064
+                },
+                {
+                    "description": "Food & Drink",
+                    "percentage": 6.451612903225806
+                },
+                {
+                    "description": "Hobbies & Interests",
+                    "percentage": 6.451612903225806
+                },
+                {
+                    "description": "Crime, Law & Justice",
+                    "percentage": 3.225806451612903
+                },
+                {
+                    "description": "Communication",
+                    "percentage": 9.67741935483871
+                }
+            ]
+        },
+        {
+            "Title": "Eu Ainda Acredito",
+            "Synopsis": "Um amor pode mudar a vida. Uma vida pode mudar o mundo. A hist\u00f3ria de amor de Jeremy Camp, um multipremiado cantor e compositor, e Melissa \u00e9 bonita, esperan\u00e7osa e redentora. Um amor jovem e a devo\u00e7\u00e3o sem fim est\u00e3o em jogo enquanto Melissa luta pela sua vida depois de saber que tem cancro em estado avan\u00e7ado.",
+            "StartDate": "2024-09-30T00:02:00",
+            "EndDate": "2024-09-30T02:03:00",
+            "Topics": [
+                {
+                    "description": "Books and Literature",
+                    "percentage": 2.941176470588235
+                },
+                {
+                    "description": "Family and Relationships",
+                    "percentage": 26.47058823529412
+                },
+                {
+                    "description": "Entertainment",
+                    "percentage": 47.05882352941176
+                },
+                {
+                    "description": "Disasters",
+                    "percentage": 5.88235294117647
+                },
+                {
+                    "description": "Medical Health",
+                    "percentage": 2.941176470588235
+                },
+                {
+                    "description": "Religion & Spirituality",
+                    "percentage": 8.823529411764707
+                },
+                {
+                    "description": "Personal Celebrations & Life Events",
+                    "percentage": 5.88235294117647
+                }
+            ]
+        }
+    ]
+}
