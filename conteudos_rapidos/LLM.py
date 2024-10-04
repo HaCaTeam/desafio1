@@ -62,7 +62,7 @@ class LLM:
         """
         text = " ".join(transcripts)
         query = (
-            "Preciso de um titulo chamativo (max: 70 chars), resumo em formato expositivo e 3 keywords para a seguinte transcrição de um clipe de um programa de TV:\n\n" +  
+            "Preciso de um titulo chamativo, resumo em formato expositivo e 3 keywords para a seguinte transcrição de um clipe de um programa de TV:\n\n" +  
             f"{text}\n\n" +
             "A resposta deve ser em português de portugal e ter o seguinte formato: \n Titulo: ... \n Resumo: ... \n Keywords: ..."
         )

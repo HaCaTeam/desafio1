@@ -76,11 +76,11 @@ if __name__ == "__main__":
     transcripts = [clip_transcript(transcripts, clip) for clip in clips]
 
     llm = LLM()
-    title, summary, keywords = llm.process_transcripts(transcripts[4])   # only one clip for testing
+    title, summary, keywords = llm.process_transcripts(transcripts[6])   # only one clip for testing
     print(f"\nTitle: \n{title}")
     print(f"\nSummary: \n{summary}")
     print(f"\nKeywords: \n{keywords}")
 
-    thumbnail = clip_thumbnail(clips[4])
+    thumbnail = clip_thumbnail(clips[6])
     print(f"\nThumbnail: \n{thumbnail}")
     update_html_file(thumbnail, title[1:-1])
