@@ -99,11 +99,11 @@
         "description": "Political Analyst",
         "interests": {
             "Politics": {
-                "time": 82,
+                "time": 62,
                 "skips": 3
             },
-            "Communication": {
-                "time": 10,
+            "Crime, Law & Justice": {
+                "time": 30,
                 "skips": 5
             },
             "Education": {
