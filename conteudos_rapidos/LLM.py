@@ -77,7 +77,7 @@ class LLM:
             transcripts (list): A list of transcripts
 
         Returns:
-            Tuple[str, str, List[str]]: Title, summary, and keywords for the transcripts
+            tuple(str, str, list(str)): Title, summary, and keywords for the transcripts
         """
         query = self.transcript_to_query(transcripts)
         response = self.query_cloud(query)

@@ -69,19 +69,27 @@
             font-family: Arial, sans-serif;
             text-align: center;
             color: #fff;
+            width: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
         }
 
         .text1 {
-            margin-top: -100%;
+            margin-top: -110%;
+            height: 35%;
             text-shadow: 4px 4px 4px #000;
+
         }
 
         .text2 {
             margin-top: 70%;
+            height: 35%;
         }
 
         .text3 {
             margin-top: -120%;
+            height: 30%;
         }
 
     </style>
@@ -89,25 +97,32 @@
 <body>
     <div class="container">
         <div class="box">
-            <img src="image.jpg" class="box0">
-            <img src="image.jpg" class="box1">
+            <img src="" class="box0">
+            <img src="" class="box1">
             <p class="text text1"></p>
         </div>
         <div class="box">
-            <img src="image.jpg" class="box2">
+            <img src="" class="box2">
             <p class="text text2"></p>
         </div>
         <div class="box">
-            <img src="image.jpg" class="box3">
+            <img src="" class="box3">
             <p class="text text3"></p>
         </div>
     </div>
 
     <script>
-        const boxText = "Assembleia Geral das Nações Unidas em Nova Iorque e Missão Militar na Moçambique: Enfatizando Paz e Desenvolvimento";
+        const imageUrl = "https://mediadive.poc.alticelabs.com/pubblocks/thumbnails/2024/10/02/RTP1_HD/12/45/20241002RTP1_HD1240H4533.jpg";
+        const boxText = "Negociações do Orçamento de Estado em Portugal: Impasse entre Governo e Oposição";
+
+        document.querySelector('.box0').src = imageUrl;
+        document.querySelector('.box1').src = imageUrl;
+        document.querySelector('.box2').src = imageUrl;
+        document.querySelector('.box3').src = imageUrl;
         document.querySelector('.text1').textContent = boxText;
         document.querySelector('.text2').textContent = boxText;
         document.querySelector('.text3').textContent = boxText;
     </script>
 </body>
 </html>
+
