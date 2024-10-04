@@ -6,7 +6,7 @@ load_dotenv()
 
 # MODEL = "meta-llama/Meta-Llama-3.1-70B-Instruct"
 MODEL = "mistralai/Mixtral-8x7B-Instruct-v0.1"
-KEY = os.getenv("KEY")
+KEY = os.getenv("HF_KEY")
 
 class LLM:
     """
@@ -62,7 +62,7 @@ class LLM:
         """
         text = " ".join(transcripts)
         query = (
-            "Preciso de um titulo chamativo, resumo em formato expositivo e 3 keywords para a seguinte transcrição de um clipe de um programa de TV:\n\n" +  
+            "Preciso de um titulo chamativo (max: 70 chars), resumo em formato expositivo e 3 keywords para a seguinte transcrição de um clipe de um programa de TV:\n\n" +  
             f"{text}\n\n" +
             "A resposta deve ser em português de portugal e ter o seguinte formato: \n Titulo: ... \n Resumo: ... \n Keywords: ..."
         )
@@ -77,7 +77,7 @@ class LLM:
             transcripts (list): A list of transcripts
 
         Returns:
-            Tuple[str, str, List[str]]: Title, summary, and keywords for the transcripts
+            tuple(str, str, list(str)): Title, summary, and keywords for the transcripts
         """
         query = self.transcript_to_query(transcripts)
         response = self.query_cloud(query)
@@ -87,5 +87,3 @@ class LLM:
         summary = response[1][8:]
         keywords = response[2][10:].split(",")
         return title, summary, keywords
-
-    
