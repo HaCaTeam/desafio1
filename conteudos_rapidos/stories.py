@@ -3,6 +3,7 @@ import json
 import csv
 import random
 import requests
+import re
 from LLM import LLM
 from dotenv import load_dotenv
 load_dotenv()
@@ -11,6 +12,22 @@ load_dotenv()
 BASE_URL = "https://mediadive.poc.alticelabs.com/pubblocks"
 API_KEY = os.getenv("API_KEY")
 STATION_ID = 327250
+
+PORT = 3002
+
+
+def update_html_file(new_image_url, new_box_text):
+    file_path = 'conteudos_rapidos/image.html'
+    with open(file_path, 'r', encoding='utf-8') as file:
+        content = file.read()
+
+    content = re.sub(r'const imageUrl = ".*?";', f'const imageUrl = "{new_image_url}";', content)
+    content = re.sub(r'const boxText = ".*?";', f'const boxText = "{new_box_text}";', content)
+
+    with open(file_path, 'w', encoding='utf-8') as file:
+        file.write(content)
+
+    print(f'http://localhost:{PORT}/' + file_path)
 
 
 def clip_transcript(transcripts, clip):
@@ -51,7 +68,7 @@ if __name__ == "__main__":
     with open('clips.json') as f:
         clips = json.load(f)
 
-    with open('../data/transcripts.csv') as f:
+    with open('data/transcripts.csv') as f:
         content = csv.reader(f, delimiter=';')
         next(content)
         transcripts = [(row[1], row[2], row[-1]) for row in content]
@@ -59,12 +76,11 @@ if __name__ == "__main__":
     transcripts = [clip_transcript(transcripts, clip) for clip in clips]
 
     llm = LLM()
-    title, summary, keywords = llm.process_transcripts(transcripts[3])   # only one clip for testing
+    title, summary, keywords = llm.process_transcripts(transcripts[4])   # only one clip for testing
     print(f"\nTitle: \n{title}")
     print(f"\nSummary: \n{summary}")
     print(f"\nKeywords: \n{keywords}")
 
-    thumbnail = clip_thumbnail(clips[3])
+    thumbnail = clip_thumbnail(clips[4])
     print(f"\nThumbnail: \n{thumbnail}")
-
-    print(len(transcripts) == len(clips))
+    update_html_file(thumbnail, title[1:-1])

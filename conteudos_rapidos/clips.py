@@ -25,7 +25,7 @@ def clips_details(station_id, start_time, end_time):
 if __name__ == "__main__":
 
     # load profile
-    with open('../data/david_example.json') as f:
+    with open('data/david_example.json') as f:
         profile = json.load(f)
 
     preferences = profile['preferences']
